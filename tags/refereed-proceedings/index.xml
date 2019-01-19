@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>refereed-proceedings on Dr Michael A Schmidt</title>
+    <link>/tags/refereed-proceedings/</link>
+    <description>Recent content in refereed-proceedings on Dr Michael A Schmidt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2006 00:00:00 +1100</lastBuildDate>
+    
+	<atom:link href="/tags/refereed-proceedings/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Flavor symmetry L(mu) - L(tau) and quasi-degenerate neutrinos</title>
+      <link>/publication/rodejohann-2005-ru/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +1100</pubDate>
+      
+      <guid>/publication/rodejohann-2005-ru/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Running neutrino mass parameters in see-saw models</title>
+      <link>/publication/schmidt-2006-zy/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +1100</pubDate>
+      
+      <guid>/publication/schmidt-2006-zy/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
