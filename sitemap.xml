@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>/people/h-adam-lackner/</loc>
+      <lastmod>2019-01-26T00:00:00+11:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/projects/clfv/</loc>
       <lastmod>2019-01-26T00:00:00+11:00</lastmod>
     </url>
@@ -20,6 +28,14 @@
     
     <url>
     
+      <loc>/people/a-bahman-ghadirian/</loc>
+      <lastmod>2019-01-26T00:00:00+11:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/projects/neutrinos/</loc>
       <lastmod>2019-01-26T00:00:00+11:00</lastmod>
     </url>
@@ -28,7 +44,31 @@
     
     <url>
     
+      <loc>/people/h-ruihao-li/</loc>
+      <lastmod>2019-01-26T00:00:00+11:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/people/h-rupert-coy/</loc>
+      <lastmod>2019-01-26T00:00:00+11:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/projects/susy/</loc>
+      <lastmod>2019-01-26T00:00:00+11:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/people/p-tobias-felkl/</loc>
       <lastmod>2019-01-26T00:00:00+11:00</lastmod>
     </url>
     
@@ -78,46 +118,6 @@
     
       <loc>/publication/1704.05849/</loc>
       <lastmod>2017-01-01T00:00:00+11:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/people/h-adam-lackner/</loc>
-      <lastmod>2016-04-27T00:00:00+10:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/people/a-bahman-ghadirian/</loc>
-      <lastmod>2016-04-27T00:00:00+10:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/people/h-ruihao-li/</loc>
-      <lastmod>2016-04-27T00:00:00+10:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/people/h-rupert-coy/</loc>
-      <lastmod>2016-04-27T00:00:00+10:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/people/p-tobias-felkl/</loc>
-      <lastmod>2016-04-27T00:00:00+10:00</lastmod>
     </url>
     
   
@@ -207,7 +207,7 @@
     <url>
     
       <loc>/tags/honours/</loc>
-      <lastmod>2016-04-27T00:00:00+10:00</lastmod>
+      <lastmod>2019-01-26T00:00:00+11:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -216,7 +216,7 @@
     <url>
     
       <loc>/people/</loc>
-      <lastmod>2016-04-27T00:00:00+10:00</lastmod>
+      <lastmod>2019-01-26T00:00:00+11:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -225,7 +225,7 @@
     <url>
     
       <loc>/tags/phd/</loc>
-      <lastmod>2016-04-27T00:00:00+10:00</lastmod>
+      <lastmod>2019-01-26T00:00:00+11:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -261,7 +261,7 @@
     <url>
     
       <loc>/tags/</loc>
-      <lastmod>2016-04-27T00:00:00+10:00</lastmod>
+      <lastmod>2019-01-26T00:00:00+11:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -270,7 +270,7 @@
     <url>
     
       <loc>/tags/alumni/</loc>
-      <lastmod>2016-04-27T00:00:00+10:00</lastmod>
+      <lastmod>2019-01-26T00:00:00+11:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -288,7 +288,7 @@
     <url>
     
       <loc>/tags/current/</loc>
-      <lastmod>2016-04-27T00:00:00+10:00</lastmod>
+      <lastmod>2019-01-26T00:00:00+11:00</lastmod>
       <priority>0</priority>
     </url>
     
