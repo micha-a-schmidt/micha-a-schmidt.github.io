@@ -4,7 +4,47 @@
     
     <url>
     
-      <loc>/publication/balaji-2018-zna/</loc>
+      <loc>/projects/bphysics/</loc>
+      <lastmod>2019-01-26T00:00:00+11:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/projects/clfv/</loc>
+      <lastmod>2019-01-26T00:00:00+11:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/projects/dark-matter/</loc>
+      <lastmod>2019-01-26T00:00:00+11:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/projects/neutrinos/</loc>
+      <lastmod>2019-01-26T00:00:00+11:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/projects/susy/</loc>
+      <lastmod>2019-01-26T00:00:00+11:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/1803.05660/</loc>
       <lastmod>2018-01-01T00:00:00+11:00</lastmod>
     </url>
     
@@ -12,47 +52,7 @@
     
     <url>
     
-      <loc>/publication/herrero-garcia-2018-koq/</loc>
-      <lastmod>2018-01-01T00:00:00+11:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/cai-2018-cog/</loc>
-      <lastmod>2018-01-01T00:00:00+11:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/kobakhidze-2017-ini/</loc>
-      <lastmod>2018-01-01T00:00:00+11:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/hagedorn-2018-spx/</loc>
-      <lastmod>2018-01-01T00:00:00+11:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/li-2018-cod/</loc>
-      <lastmod>2018-01-01T00:00:00+11:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/medina-2017-bke/</loc>
+      <loc>/talk/example/</loc>
       <lastmod>2017-01-01T00:00:00+11:00</lastmod>
     </url>
     
@@ -60,7 +60,7 @@
     
     <url>
     
-      <loc>/publication/cai-2017-jrq/</loc>
+      <loc>/publication/1706.08524/</loc>
       <lastmod>2017-01-01T00:00:00+11:00</lastmod>
     </url>
     
@@ -76,14 +76,6 @@
     
     <url>
     
-      <loc>/publication/</loc>
-      <lastmod>2017-01-01T00:00:00+11:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/talk/</loc>
       <lastmod>2017-01-01T00:00:00+11:00</lastmod>
     </url>
@@ -92,7 +84,7 @@
     
     <url>
     
-      <loc>/publication/cai-2017-wry/</loc>
+      <loc>/publication/1704.05849/</loc>
       <lastmod>2017-01-01T00:00:00+11:00</lastmod>
     </url>
     
@@ -100,7 +92,47 @@
     
     <url>
     
-      <loc>/publication/cai-2015-poa/</loc>
+      <loc>/people/h-adam-lackner/</loc>
+      <lastmod>2016-04-27T00:00:00+10:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/people/a-bahman-ghadirian/</loc>
+      <lastmod>2016-04-27T00:00:00+10:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/people/h-ruihao-li/</loc>
+      <lastmod>2016-04-27T00:00:00+10:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/people/h-rupert-coy/</loc>
+      <lastmod>2016-04-27T00:00:00+10:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/people/p-tobias-felkl/</loc>
+      <lastmod>2016-04-27T00:00:00+10:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/1606.02722/</loc>
       <lastmod>2016-01-01T00:00:00+11:00</lastmod>
     </url>
     
@@ -108,79 +140,7 @@
     
     <url>
     
-      <loc>/publication/cai-2016-jrl/</loc>
-      <lastmod>2016-01-01T00:00:00+11:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/hagedorn-2016-dze/</loc>
-      <lastmod>2016-01-01T00:00:00+11:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/bell-2016-obu/</loc>
-      <lastmod>2016-01-01T00:00:00+11:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/adulpravitchai-2014-xna/</loc>
-      <lastmod>2015-01-01T00:00:00+11:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/through-neutrino-eyes-2015/</loc>
-      <lastmod>2015-01-01T00:00:00+11:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/ballett-2014-uia/</loc>
-      <lastmod>2015-01-01T00:00:00+11:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/gherghetta-2015-ysa/</loc>
-      <lastmod>2015-01-01T00:00:00+11:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/adulpravitchai-2015-mna/</loc>
-      <lastmod>2015-01-01T00:00:00+11:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/cai-2014-kra/</loc>
-      <lastmod>2015-01-01T00:00:00+11:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/ballett-2013-wya/</loc>
+      <loc>/publication/1308.4314/</loc>
       <lastmod>2014-01-01T00:00:00+11:00</lastmod>
     </url>
     
@@ -188,23 +148,7 @@
     
     <url>
     
-      <loc>/publication/ballett-2014-dua/</loc>
-      <lastmod>2014-01-01T00:00:00+11:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/gherghetta-2014-xea/</loc>
-      <lastmod>2014-01-01T00:00:00+11:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/holthausen-2012-dk/</loc>
+      <loc>/publication/1211.6953/</loc>
       <lastmod>2013-01-01T00:00:00+11:00</lastmod>
     </url>
     
@@ -212,7 +156,7 @@
     
     <url>
     
-      <loc>/publication/holthausen-2012-wz/</loc>
+      <loc>/publication/1212.5243/</loc>
       <lastmod>2013-01-01T00:00:00+11:00</lastmod>
     </url>
     
@@ -220,71 +164,7 @@
     
     <url>
     
-      <loc>/publication/farzan-2012-ev/</loc>
-      <lastmod>2013-01-01T00:00:00+11:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/antusch-2013-rla/</loc>
-      <lastmod>2013-01-01T00:00:00+11:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/angel-2013-hla/</loc>
-      <lastmod>2013-01-01T00:00:00+11:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/gherghetta-2012-gb/</loc>
-      <lastmod>2013-01-01T00:00:00+11:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/holthausen-2011-vd/</loc>
-      <lastmod>2012-01-01T00:00:00+11:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/schmidt-2011-jp/</loc>
-      <lastmod>2012-01-01T00:00:00+11:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/adulpravitchai-2010-na/</loc>
-      <lastmod>2011-01-01T00:00:00+11:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/ray-2010-fa/</loc>
-      <lastmod>2011-01-01T00:00:00+11:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/farzan-2010-mr/</loc>
+      <loc>/publication/0911.0710/</loc>
       <lastmod>2010-01-01T00:00:00+11:00</lastmod>
     </url>
     
@@ -292,23 +172,7 @@
     
     <url>
     
-      <loc>/publication/holthausen-2009-uc/</loc>
-      <lastmod>2010-01-01T00:00:00+11:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/hagedorn-2008-bc/</loc>
-      <lastmod>2009-01-01T00:00:00+11:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/schmidt-2007-nq/</loc>
+      <loc>/publication/0705.3841/</loc>
       <lastmod>2007-01-01T00:00:00+11:00</lastmod>
     </url>
     
@@ -316,47 +180,7 @@
     
     <url>
     
-      <loc>/publication/rodejohann-2005-ru/</loc>
-      <lastmod>2006-01-01T00:00:00+11:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/schmidt-2006-rb/</loc>
-      <lastmod>2006-01-01T00:00:00+11:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/schmidt-2006-zy/</loc>
-      <lastmod>2006-01-01T00:00:00+11:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/lindner-2005-as/</loc>
-      <lastmod>2005-01-01T00:00:00+11:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/antusch-2005-gp/</loc>
-      <lastmod>2005-01-01T00:00:00+11:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/lindner-2005-pk/</loc>
+      <loc>/publication/0501272/</loc>
       <lastmod>2005-01-01T00:00:00+11:00</lastmod>
     </url>
     
@@ -366,6 +190,15 @@
     
       <loc>/publication_types/2/</loc>
       <lastmod>2018-01-01T00:00:00+11:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/b-physics/</loc>
+      <lastmod>2019-01-26T00:00:00+11:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -390,6 +223,42 @@
     
     <url>
     
+      <loc>/tags/honours/</loc>
+      <lastmod>2016-04-27T00:00:00+10:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/people/</loc>
+      <lastmod>2016-04-27T00:00:00+10:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/phd/</loc>
+      <lastmod>2016-04-27T00:00:00+10:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/projects/</loc>
+      <lastmod>2019-01-26T00:00:00+11:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/publication_types/</loc>
       <lastmod>2018-01-01T00:00:00+11:00</lastmod>
       <priority>0</priority>
@@ -399,15 +268,7 @@
     
     <url>
     
-      <loc>/tags/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/other/</loc>
+      <loc>/publication/</loc>
       <lastmod>2018-01-01T00:00:00+11:00</lastmod>
       <priority>0</priority>
     </url>
@@ -416,8 +277,62 @@
     
     <url>
     
-      <loc>/tags/refereed-proceedings/</loc>
-      <lastmod>2006-01-01T00:00:00+11:00</lastmod>
+      <loc>/tags/</loc>
+      <lastmod>2019-01-26T00:00:00+11:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/alumni/</loc>
+      <lastmod>2016-04-27T00:00:00+10:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/clfv/</loc>
+      <lastmod>2019-01-26T00:00:00+11:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/current/</loc>
+      <lastmod>2016-04-27T00:00:00+10:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/dark-matter/</loc>
+      <lastmod>2019-01-26T00:00:00+11:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/neutrinos/</loc>
+      <lastmod>2019-01-26T00:00:00+11:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/susy/</loc>
+      <lastmod>2019-01-26T00:00:00+11:00</lastmod>
       <priority>0</priority>
     </url>
     

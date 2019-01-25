@@ -50,56 +50,11 @@ He has mainly worked on models of neutrino mass generation both in the context o
     </item>
     
     <item>
-      <title>Experience</title>
-      <link>/home/experience/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/home/experience/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Selected Publications</title>
-      <link>/home/publications_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +1000</pubDate>
-      
-      <guid>/home/publications_selected/</guid>
-      <description>A complete list of publications is available on inspirehep.</description>
-    </item>
-    
-    <item>
-      <title>Recent Publications</title>
-      <link>/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +1000</pubDate>
-      
-      <guid>/home/publications/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Selected Talks</title>
-      <link>/home/talks_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +1000</pubDate>
-      
-      <guid>/home/talks_selected/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Recent &amp; Upcoming Talks</title>
       <link>/home/talks/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +1000</pubDate>
       
       <guid>/home/talks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recent Posts</title>
-      <link>/home/posts/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +1000</pubDate>
-      
-      <guid>/home/posts/</guid>
       <description></description>
     </item>
     
@@ -113,13 +68,66 @@ He has mainly worked on models of neutrino mass generation both in the context o
     </item>
     
     <item>
-      <title>Custom Section</title>
+      <title>Selected Publications</title>
+      <link>/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +1000</pubDate>
+      
+      <guid>/home/publications_selected/</guid>
+      <description>A complete list of publications is available on inspirehep.</description>
+    </item>
+    
+    <item>
+      <title>Group members</title>
+      <link>/home/people/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +1000</pubDate>
+      
+      <guid>/home/people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selected Talks</title>
+      <link>/home/talks_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +1000</pubDate>
+      
+      <guid>/home/talks_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +1000</pubDate>
+      
+      <guid>/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +1000</pubDate>
+      
+      <guid>/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
       <link>/home/teaching/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +1000</pubDate>
       
       <guid>/home/teaching/</guid>
-      <description>This is an example of using the custom widget to create your own homepage section.
-To remove this section, either delete content/home/teaching.md or edit the frontmatter of the file to deactivate the widget by setting active = false.</description>
+      <description> 2018  Quantum Field Theory (4th year)  2017  Particle Cosmology and Baryonic Astrophysics (4th year) Senior Quantum Physics (3rd year)  2016  Particle Cosmology and Baryonic Astrophysics (4th year) Senior Quantum Physics (3rd year)  2015  Particle Cosmology and Baryonic Astrophysics (4th year) Senior Quantum Physics (3rd year) Senior Physics Lab (3rd year)  2014  Quantum Field Theory (Masters) Senior Physics Lab (3rd year)  </description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>/home/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/home/experience/</guid>
+      <description></description>
     </item>
     
     <item>

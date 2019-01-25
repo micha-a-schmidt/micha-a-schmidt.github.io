@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dark matter on Dr Michael A Schmidt</title>
+    <link>/tags/dark-matter/</link>
+    <description>Recent content in dark matter on Dr Michael A Schmidt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 26 Jan 2019 00:00:00 +1100</lastBuildDate>
+    
+	<atom:link href="/tags/dark-matter/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dark matter</title>
+      <link>/projects/dark-matter/</link>
+      <pubDate>Sat, 26 Jan 2019 00:00:00 +1100</pubDate>
+      
+      <guid>/projects/dark-matter/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

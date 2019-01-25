@@ -7,25 +7,89 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 26 Jan 2019 00:00:00 +1100</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>other</title>
-      <link>/tags/other/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +1100</pubDate>
+      <title>B physics</title>
+      <link>/tags/b-physics/</link>
+      <pubDate>Sat, 26 Jan 2019 00:00:00 +1100</pubDate>
       
-      <guid>/tags/other/</guid>
+      <guid>/tags/b-physics/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>refereed-proceedings</title>
-      <link>/tags/refereed-proceedings/</link>
-      <pubDate>Sun, 01 Jan 2006 00:00:00 +1100</pubDate>
+      <title>Honours</title>
+      <link>/tags/honours/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +1000</pubDate>
       
-      <guid>/tags/refereed-proceedings/</guid>
+      <guid>/tags/honours/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PhD</title>
+      <link>/tags/phd/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +1000</pubDate>
+      
+      <guid>/tags/phd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>alumni</title>
+      <link>/tags/alumni/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +1000</pubDate>
+      
+      <guid>/tags/alumni/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>clfv</title>
+      <link>/tags/clfv/</link>
+      <pubDate>Sat, 26 Jan 2019 00:00:00 +1100</pubDate>
+      
+      <guid>/tags/clfv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>current</title>
+      <link>/tags/current/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +1000</pubDate>
+      
+      <guid>/tags/current/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dark matter</title>
+      <link>/tags/dark-matter/</link>
+      <pubDate>Sat, 26 Jan 2019 00:00:00 +1100</pubDate>
+      
+      <guid>/tags/dark-matter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>neutrinos</title>
+      <link>/tags/neutrinos/</link>
+      <pubDate>Sat, 26 Jan 2019 00:00:00 +1100</pubDate>
+      
+      <guid>/tags/neutrinos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>susy</title>
+      <link>/tags/susy/</link>
+      <pubDate>Sat, 26 Jan 2019 00:00:00 +1100</pubDate>
+      
+      <guid>/tags/susy/</guid>
       <description></description>
     </item>
     
