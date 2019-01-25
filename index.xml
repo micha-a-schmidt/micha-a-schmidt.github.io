@@ -11,15 +11,6 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>B physics anomalies</title>
-      <link>/projects/bphysics/</link>
-      <pubDate>Sat, 26 Jan 2019 00:00:00 +1100</pubDate>
-      
-      <guid>/projects/bphysics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Charged lepton flavour violation</title>
       <link>/projects/clfv/</link>
       <pubDate>Sat, 26 Jan 2019 00:00:00 +1100</pubDate>
@@ -202,6 +193,15 @@
       <pubDate>Fri, 01 Jan 2016 00:00:00 +1100</pubDate>
       
       <guid>/publication/1606.02722/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing atmospheric mixing sum rules at precision neutrino facilities</title>
+      <link>/publication/1308.4314/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +1100</pubDate>
+      
+      <guid>/publication/1308.4314/</guid>
       <description></description>
     </item>
     
