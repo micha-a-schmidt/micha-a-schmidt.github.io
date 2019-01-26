@@ -20,7 +20,31 @@
     
     <url>
     
+      <loc>/talk/201811-cepc/</loc>
+      <lastmod>2019-01-26T00:00:00+11:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/projects/dark-matter/</loc>
+      <lastmod>2019-01-26T00:00:00+11:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/talk/201712-cospa/</loc>
+      <lastmod>2019-01-26T00:00:00+11:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/talk/201805-planck/</loc>
       <lastmod>2019-01-26T00:00:00+11:00</lastmod>
     </url>
     
@@ -44,6 +68,14 @@
     
     <url>
     
+      <loc>/talk/201707-zhengzhou/</loc>
+      <lastmod>2019-01-26T00:00:00+11:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/people/ruihao-li/</loc>
       <lastmod>2019-01-26T00:00:00+11:00</lastmod>
     </url>
@@ -53,6 +85,14 @@
     <url>
     
       <loc>/people/rupert-coy/</loc>
+      <lastmod>2019-01-26T00:00:00+11:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/talk/201906-clfv/</loc>
       <lastmod>2019-01-26T00:00:00+11:00</lastmod>
     </url>
     
@@ -76,6 +116,14 @@
     
     <url>
     
+      <loc>/talk/201707-dsu/</loc>
+      <lastmod>2019-01-26T00:00:00+11:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/publication/1803.05660/</loc>
       <lastmod>2018-01-01T00:00:00+11:00</lastmod>
     </url>
@@ -84,8 +132,24 @@
     
     <url>
     
-      <loc>/talk/example/</loc>
-      <lastmod>2017-01-01T00:00:00+11:00</lastmod>
+      <loc>/talk/201712-nuphys/</loc>
+      <lastmod>2017-12-21T00:00:00+11:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/talk/201709-nufact/</loc>
+      <lastmod>2017-09-29T00:00:00+10:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/talk/201709-launch/</loc>
+      <lastmod>2017-09-14T00:00:00+10:00</lastmod>
     </url>
     
   
@@ -182,6 +246,24 @@
     
       <loc>/publication_types/2/</loc>
       <lastmod>2018-01-01T00:00:00+11:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/b-physics/</loc>
+      <lastmod>2019-01-26T00:00:00+11:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/cp/</loc>
+      <lastmod>2017-12-21T00:00:00+11:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -298,6 +380,15 @@
     
       <loc>/tags/dark-matter/</loc>
       <lastmod>2019-01-26T00:00:00+11:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/flavour-symmetry/</loc>
+      <lastmod>2017-12-21T00:00:00+11:00</lastmod>
       <priority>0</priority>
     </url>
     

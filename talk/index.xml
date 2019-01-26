@@ -13,14 +13,84 @@
     
     
     <item>
-      <title>Example Talk</title>
-      <link>/talk/example/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +1100</pubDate>
+      <title>Charged lepton flavour violation</title>
+      <link>/talk/201811-cepc/</link>
+      <pubDate>Sat, 26 Jan 2019 00:00:00 +1100</pubDate>
       
-      <guid>/talk/example/</guid>
-      <description>Click on the Slides button above to view the built-in slides feature.
- Slides can be added in a few ways:
- Create slides using Academic&amp;rsquo;s Slides feature and link using url_slides parameter in the front matter of the talk file Upload an existing slide deck to static/ and link using url_slides parameter in the front matter of the talk file Embed your slides (e.g. Google Slides) or presentation video on this page using shortcodes.</description>
+      <guid>/talk/201811-cepc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dark matter direct detection at one loop</title>
+      <link>/talk/201712-cospa/</link>
+      <pubDate>Sat, 26 Jan 2019 00:00:00 +1100</pubDate>
+      
+      <guid>/talk/201712-cospa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dark matter direct detection at one loop</title>
+      <link>/talk/201805-planck/</link>
+      <pubDate>Sat, 26 Jan 2019 00:00:00 +1100</pubDate>
+      
+      <guid>/talk/201805-planck/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconsidering the one leptoquark solution: Flavor anomalies and neutrino mass</title>
+      <link>/talk/201707-zhengzhou/</link>
+      <pubDate>Sat, 26 Jan 2019 00:00:00 +1100</pubDate>
+      
+      <guid>/talk/201707-zhengzhou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Searches for CLFV at Current and Future Colliders</title>
+      <link>/talk/201906-clfv/</link>
+      <pubDate>Sat, 26 Jan 2019 00:00:00 +1100</pubDate>
+      
+      <guid>/talk/201906-clfv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unitarisation of EFT Amplitudes for Dark Matter Searches at the LHC</title>
+      <link>/talk/201707-dsu/</link>
+      <pubDate>Sat, 26 Jan 2019 00:00:00 +1100</pubDate>
+      
+      <guid>/talk/201707-dsu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theory review of flavour models and CPV</title>
+      <link>/talk/201712-nuphys/</link>
+      <pubDate>Thu, 21 Dec 2017 00:00:00 +1100</pubDate>
+      
+      <guid>/talk/201712-nuphys/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A connection between neutrino mass and the recent B physics anomalies</title>
+      <link>/talk/201709-nufact/</link>
+      <pubDate>Fri, 29 Sep 2017 00:00:00 +1000</pubDate>
+      
+      <guid>/talk/201709-nufact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From the trees to the forest: the search for the origin of neutrino mass</title>
+      <link>/talk/201709-launch/</link>
+      <pubDate>Thu, 14 Sep 2017 00:00:00 +1000</pubDate>
+      
+      <guid>/talk/201709-launch/</guid>
+      <description></description>
     </item>
     
   </channel>
