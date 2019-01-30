@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sat, 26 Jan 2019 00:00:00 +1100</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jul 2017 00:00:00 +1000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>B physics</title>
       <link>/tags/b-physics/</link>
-      <pubDate>Sat, 26 Jan 2019 00:00:00 +1100</pubDate>
+      <pubDate>Mon, 24 Jul 2017 00:00:00 +1000</pubDate>
       
       <guid>/tags/b-physics/</guid>
       <description></description>
@@ -45,6 +45,15 @@
       <pubDate>Sat, 26 Jan 2019 00:00:00 +1100</pubDate>
       
       <guid>/tags/phd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SUSY</title>
+      <link>/tags/susy/</link>
+      <pubDate>Wed, 22 May 2013 00:00:00 +1000</pubDate>
+      
+      <guid>/tags/susy/</guid>
       <description></description>
     </item>
     
@@ -105,7 +114,7 @@
     <item>
       <title>susy</title>
       <link>/tags/susy/</link>
-      <pubDate>Sat, 26 Jan 2019 00:00:00 +1100</pubDate>
+      <pubDate>Wed, 22 May 2013 00:00:00 +1000</pubDate>
       
       <guid>/tags/susy/</guid>
       <description></description>
