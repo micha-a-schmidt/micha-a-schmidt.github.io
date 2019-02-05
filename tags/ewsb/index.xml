@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ewsb on Dr Michael A Schmidt</title>
+    <link>/tags/ewsb/</link>
+    <description>Recent content in ewsb on Dr Michael A Schmidt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 26 Jan 2019 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="/tags/ewsb/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Supersymmetry Phenomenology</title>
+      <link>/projects/susy/</link>
+      <pubDate>Sat, 26 Jan 2019 00:00:00 +0800</pubDate>
+      
+      <guid>/projects/susy/</guid>
+      <description>The discovery of the Higgs boson at the Large Hadron Collider (LHC) provides compelling evidence that the Higgs mechanism is responsible for the generation of elementary particle masses in the Standard Model (SM). An important next question is to ascertain the nature of this new particle by measuring its properties and couplings.
+A well-motivated possibility is to identify the new resonance with the lightest Higgs boson in the supersymmetric standard model.</description>
+    </item>
+    
+    <item>
+      <title>Radiative Symmetry Breaking of the Minimal Left-Right Symmetric Model</title>
+      <link>/publication/0911.0710/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/0911.0710/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
