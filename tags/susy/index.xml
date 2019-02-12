@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 22 May 2013 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 22 May 2013 00:00:00 +1000</lastBuildDate>
     
 	<atom:link href="/tags/susy/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>The Scale-Invariant NMSSM and the 126 GeV Higgs Boson</title>
       <link>/talk/201305-planck/</link>
-      <pubDate>Wed, 22 May 2013 00:00:00 +0800</pubDate>
+      <pubDate>Wed, 22 May 2013 00:00:00 +1000</pubDate>
       
       <guid>/talk/201305-planck/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>The Scale-Invariant NMSSM and the 126 GeV Higgs Boson</title>
       <link>/talk/201305-pheno/</link>
-      <pubDate>Tue, 07 May 2013 00:00:00 +0800</pubDate>
+      <pubDate>Tue, 07 May 2013 00:00:00 +1000</pubDate>
       
       <guid>/talk/201305-pheno/</guid>
       <description></description>
@@ -33,7 +33,7 @@
     <item>
       <title>Implications of a SM like Higgs for a natural NMSSM with low cutoff</title>
       <link>/talk/201207-ichep/</link>
-      <pubDate>Fri, 06 Jul 2012 00:00:00 +0800</pubDate>
+      <pubDate>Fri, 06 Jul 2012 00:00:00 +1000</pubDate>
       
       <guid>/talk/201207-ichep/</guid>
       <description></description>
@@ -42,7 +42,7 @@
     <item>
       <title>Implications of a SM like Higgs for a natural NMSSM with low cutoff</title>
       <link>/talk/201205-planck/</link>
-      <pubDate>Wed, 30 May 2012 00:00:00 +0800</pubDate>
+      <pubDate>Wed, 30 May 2012 00:00:00 +1000</pubDate>
       
       <guid>/talk/201205-planck/</guid>
       <description></description>
