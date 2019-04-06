@@ -11,12 +11,16 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Webinar</title>
+      <title>Sydney particle physics webinar series</title>
       <link>/webinar/</link>
       <pubDate>Thu, 04 Apr 2019 00:00:00 +1100</pubDate>
       
       <guid>/webinar/</guid>
-      <description>&lt;ul&gt;
+      <description>
+
+&lt;h1 id=&#34;upcoming-and-past-webinars&#34;&gt;Upcoming and past webinars&lt;/h1&gt;
+
+&lt;ul&gt;
 &lt;li&gt;2019-05-03 Oliver Fischer&lt;/li&gt;
 &lt;li&gt;2018-04-17 Julian Heeck &lt;a href=&#34;webinar/Seminar-20180417-Heeck.pdf&#34; target=&#34;_blank&#34;&gt;Rare processes and the fate of baryon and lepton numbers&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;2017-11-03 David McKeen &lt;a href=&#34;webinar/Seminar-20171103-mckeen.pdf&#34; target=&#34;_blank&#34;&gt;Oscillations and Baryogenesis&lt;/a&gt;&lt;/li&gt;
