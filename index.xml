@@ -11,6 +11,27 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Sydney particle physics webinar series</title>
+      <link>/webinar/</link>
+      <pubDate>Sat, 06 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/webinar/</guid>
+      <description>
+
+&lt;h1 id=&#34;upcoming-and-past-webinars&#34;&gt;Upcoming and past webinars&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;2019-05-03 16:30 &lt;strong&gt;Oliver Fischer (KIT)&lt;/strong&gt;, Testing the origin of neutrino masses at future colliders&lt;/li&gt;
+&lt;li&gt;2018-04-17 17:00 &lt;strong&gt;Julian Heeck (ULB)&lt;/strong&gt;, &lt;a href=&#34;Seminar-20180417-Heeck.pdf&#34; target=&#34;_blank&#34;&gt;Rare processes and the fate of baryon and lepton numbers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;2017-11-03 10:00 &lt;strong&gt;David McKeen (Pittsburgh)&lt;/strong&gt;, &lt;a href=&#34;Seminar-20171103-mckeen.pdf&#34; target=&#34;_blank&#34;&gt;Oscillations and Baryogenesis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;2017-09-12 16:15 &lt;strong&gt;Peter Cox (IPMU)&lt;/strong&gt;, &lt;a href=&#34;Seminar-20170912-Cox.pdf&#34; target=&#34;_blank&#34;&gt;Anomaly-free gauge symmetries and B-decay anomalies&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;2017-09-07 17:00 &lt;strong&gt;Rupert Coy (Montpellier)&lt;/strong&gt;, &lt;a href=&#34;Seminar-20170907-Coy.pdf&#34; target=&#34;_blank&#34;&gt;Dynamical Clockwork Axions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;2017-08-01 16:00 &lt;strong&gt;Iason Baldes (DESY)&lt;/strong&gt;, &lt;a href=&#34;Seminar-20170801-baldes.pdf&#34; target=&#34;_blank&#34;&gt;Asymmetric Dark Matter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Adam Lackner</title>
       <link>/people/adam-lackner/</link>
       <pubDate>Sat, 26 Jan 2019 00:00:00 +1100</pubDate>
@@ -155,15 +176,6 @@ A well-motivated possibility is to identify the new resonance with the lightest 
       <pubDate>Mon, 01 Jan 2018 00:00:00 +1100</pubDate>
       
       <guid>/publication/1803.05660/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Theory review of flavour models and CPV</title>
-      <link>/talk/201712-nuphys/</link>
-      <pubDate>Thu, 21 Dec 2017 00:00:00 +1100</pubDate>
-      
-      <guid>/talk/201712-nuphys/</guid>
       <description></description>
     </item>
     
