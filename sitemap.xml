@@ -4,14 +4,6 @@
     
     <url>
     
-      <loc>/webinar/</loc>
-      <lastmod>2019-04-04T00:00:00+11:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/people/adam-lackner/</loc>
       <lastmod>2019-01-26T00:00:00+11:00</lastmod>
     </url>
@@ -625,6 +617,13 @@
       <loc>/tags/susy/</loc>
       <lastmod>2013-05-22T00:00:00+10:00</lastmod>
       <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/webinar/</loc>
     </url>
     
   
