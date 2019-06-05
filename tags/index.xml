@@ -7,28 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 24 Jul 2017 00:00:00 +1000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Jan 2019 00:00:00 +1100</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>B physics</title>
-      <link>/tags/b-physics/</link>
-      <pubDate>Mon, 24 Jul 2017 00:00:00 +1000</pubDate>
-      
-      <guid>/tags/b-physics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CP</title>
-      <link>/tags/cp/</link>
-      <pubDate>Thu, 21 Dec 2017 00:00:00 +1100</pubDate>
-      
-      <guid>/tags/cp/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Honours</title>
@@ -45,15 +27,6 @@
       <pubDate>Sat, 26 Jan 2019 00:00:00 +1100</pubDate>
       
       <guid>/tags/phd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SUSY</title>
-      <link>/tags/susy/</link>
-      <pubDate>Wed, 22 May 2013 00:00:00 +1000</pubDate>
-      
-      <guid>/tags/susy/</guid>
       <description></description>
     </item>
     
@@ -103,15 +76,6 @@
     </item>
     
     <item>
-      <title>flavour symmetry</title>
-      <link>/tags/flavour-symmetry/</link>
-      <pubDate>Thu, 21 Dec 2017 00:00:00 +1100</pubDate>
-      
-      <guid>/tags/flavour-symmetry/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>neutrinos</title>
       <link>/tags/neutrinos/</link>
       <pubDate>Sat, 26 Jan 2019 00:00:00 +1100</pubDate>
@@ -123,9 +87,36 @@
     <item>
       <title>susy</title>
       <link>/tags/susy/</link>
-      <pubDate>Wed, 22 May 2013 00:00:00 +1000</pubDate>
+      <pubDate>Sat, 26 Jan 2019 00:00:00 +1100</pubDate>
       
       <guid>/tags/susy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CP</title>
+      <link>/tags/cp/</link>
+      <pubDate>Thu, 21 Dec 2017 00:00:00 +1100</pubDate>
+      
+      <guid>/tags/cp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>flavour symmetry</title>
+      <link>/tags/flavour-symmetry/</link>
+      <pubDate>Thu, 21 Dec 2017 00:00:00 +1100</pubDate>
+      
+      <guid>/tags/flavour-symmetry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>B physics</title>
+      <link>/tags/b-physics/</link>
+      <pubDate>Mon, 24 Jul 2017 00:00:00 +1000</pubDate>
+      
+      <guid>/tags/b-physics/</guid>
       <description></description>
     </item>
     
