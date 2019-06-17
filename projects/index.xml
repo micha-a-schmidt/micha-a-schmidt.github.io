@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sat, 26 Jan 2019 00:00:00 +1100</lastBuildDate>
+    <lastBuildDate>Sat, 26 Jan 2019 00:00:00 +0900</lastBuildDate>
     
 	<atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Charged lepton flavour violation</title>
       <link>/projects/clfv/</link>
-      <pubDate>Sat, 26 Jan 2019 00:00:00 +1100</pubDate>
+      <pubDate>Sat, 26 Jan 2019 00:00:00 +0900</pubDate>
       
       <guid>/projects/clfv/</guid>
       <description>In the standard model the three lepton flavours are separately conserved. The observation of neutrino oscillations and thus neutrino masses clearly established the violation of two linear combinations of the lepton flavour numbers. This implies the existence of charged lepton flavour violating processes, where charged leptons change flavour in absence of neutrinos. These processes exist, but are extremely small if induced by the three active light neutrinos due to unitarity of the leptonic mixing matrix and the smallness of neutrino masses.</description>
@@ -24,7 +24,7 @@
     <item>
       <title>Dark matter</title>
       <link>/projects/dark-matter/</link>
-      <pubDate>Sat, 26 Jan 2019 00:00:00 +1100</pubDate>
+      <pubDate>Sat, 26 Jan 2019 00:00:00 +0900</pubDate>
       
       <guid>/projects/dark-matter/</guid>
       <description>The simplest and most compelling explanation of the missing mass in the Universe is in terms of particle dark matter. There are many different well motivated dark matter candidates in models of physics beyond the standard model. Examples include axions, which are predicted by dynamic solutions to the strong CP problem, weakly interacting massive particles (WIMPs) which naturally occur in supersymmetry or any model with an unbroken (discrete) symmetry, keV sterile neutrinos, asymmetric dark matter to name a few.</description>
@@ -33,7 +33,7 @@
     <item>
       <title>Neutrino masses</title>
       <link>/projects/neutrinos/</link>
-      <pubDate>Sat, 26 Jan 2019 00:00:00 +1100</pubDate>
+      <pubDate>Sat, 26 Jan 2019 00:00:00 +0900</pubDate>
       
       <guid>/projects/neutrinos/</guid>
       <description>The Standard Model predicts neutrinos to be massless. However the observation of neutrino oscillations clearly established that neutrinos are massive. In the last 20 years there has been a tremendous experimental progress. From the first discovery neutrino oscillations experiments are making precision measurements of the leptonic mixing parameters and the neutrino mass squared differences. I have worked on different aspects of neutrino physics including model building and phenomenology of neutrino mass models, models of flavour in the lepton sector and quantum corrections.</description>
@@ -42,7 +42,7 @@
     <item>
       <title>Supersymmetry Phenomenology</title>
       <link>/projects/susy/</link>
-      <pubDate>Sat, 26 Jan 2019 00:00:00 +1100</pubDate>
+      <pubDate>Sat, 26 Jan 2019 00:00:00 +0900</pubDate>
       
       <guid>/projects/susy/</guid>
       <description>The discovery of the Higgs boson at the Large Hadron Collider (LHC) provides compelling evidence that the Higgs mechanism is responsible for the generation of elementary particle masses in the Standard Model (SM). An important next question is to ascertain the nature of this new particle by measuring its properties and couplings.

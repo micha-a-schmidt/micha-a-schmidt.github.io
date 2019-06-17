@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>susy on Dr Michael A Schmidt</title>
+    <title>SUSY on Dr Michael A Schmidt</title>
     <link>/tags/susy/</link>
-    <description>Recent content in susy on Dr Michael A Schmidt</description>
+    <description>Recent content in SUSY on Dr Michael A Schmidt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sat, 26 Jan 2019 00:00:00 +1100</lastBuildDate>
+    <lastBuildDate>Sat, 26 Jan 2019 00:00:00 +0900</lastBuildDate>
     
 	<atom:link href="/tags/susy/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Supersymmetry Phenomenology</title>
       <link>/projects/susy/</link>
-      <pubDate>Sat, 26 Jan 2019 00:00:00 +1100</pubDate>
+      <pubDate>Sat, 26 Jan 2019 00:00:00 +0900</pubDate>
       
       <guid>/projects/susy/</guid>
       <description>The discovery of the Higgs boson at the Large Hadron Collider (LHC) provides compelling evidence that the Higgs mechanism is responsible for the generation of elementary particle masses in the Standard Model (SM). An important next question is to ascertain the nature of this new particle by measuring its properties and couplings.
@@ -25,7 +25,7 @@ A well-motivated possibility is to identify the new resonance with the lightest 
     <item>
       <title>The Scale-Invariant NMSSM and the 126 GeV Higgs Boson</title>
       <link>/talk/201305-planck/</link>
-      <pubDate>Wed, 22 May 2013 00:00:00 +1000</pubDate>
+      <pubDate>Wed, 22 May 2013 00:00:00 +0900</pubDate>
       
       <guid>/talk/201305-planck/</guid>
       <description></description>
@@ -34,7 +34,7 @@ A well-motivated possibility is to identify the new resonance with the lightest 
     <item>
       <title>The Scale-Invariant NMSSM and the 126 GeV Higgs Boson</title>
       <link>/talk/201305-pheno/</link>
-      <pubDate>Tue, 07 May 2013 00:00:00 +1000</pubDate>
+      <pubDate>Tue, 07 May 2013 00:00:00 +0900</pubDate>
       
       <guid>/talk/201305-pheno/</guid>
       <description></description>
@@ -43,7 +43,7 @@ A well-motivated possibility is to identify the new resonance with the lightest 
     <item>
       <title>The Scale-Invariant NMSSM and the 126 GeV Higgs Boson</title>
       <link>/publication/1212.5243/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +1100</pubDate>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0900</pubDate>
       
       <guid>/publication/1212.5243/</guid>
       <description></description>
@@ -52,7 +52,7 @@ A well-motivated possibility is to identify the new resonance with the lightest 
     <item>
       <title>Implications of a SM like Higgs for a natural NMSSM with low cutoff</title>
       <link>/talk/201207-ichep/</link>
-      <pubDate>Fri, 06 Jul 2012 00:00:00 +1000</pubDate>
+      <pubDate>Fri, 06 Jul 2012 00:00:00 +0900</pubDate>
       
       <guid>/talk/201207-ichep/</guid>
       <description></description>
@@ -61,7 +61,7 @@ A well-motivated possibility is to identify the new resonance with the lightest 
     <item>
       <title>Implications of a SM like Higgs for a natural NMSSM with low cutoff</title>
       <link>/talk/201205-planck/</link>
-      <pubDate>Wed, 30 May 2012 00:00:00 +1000</pubDate>
+      <pubDate>Wed, 30 May 2012 00:00:00 +0900</pubDate>
       
       <guid>/talk/201205-planck/</guid>
       <description></description>
