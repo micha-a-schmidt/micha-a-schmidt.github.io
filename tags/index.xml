@@ -31,15 +31,6 @@
     </item>
     
     <item>
-      <title>SUSY</title>
-      <link>/tags/susy/</link>
-      <pubDate>Sat, 26 Jan 2019 00:00:00 +1100</pubDate>
-      
-      <guid>/tags/susy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>alumni</title>
       <link>/tags/alumni/</link>
       <pubDate>Sat, 26 Jan 2019 00:00:00 +1100</pubDate>
@@ -90,6 +81,15 @@
       <pubDate>Sat, 26 Jan 2019 00:00:00 +1100</pubDate>
       
       <guid>/tags/neutrinos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>susy</title>
+      <link>/tags/susy/</link>
+      <pubDate>Sat, 26 Jan 2019 00:00:00 +1100</pubDate>
+      
+      <guid>/tags/susy/</guid>
       <description></description>
     </item>
     
