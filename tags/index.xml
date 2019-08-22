@@ -22,24 +22,6 @@
     </item>
     
     <item>
-      <title>Honours</title>
-      <link>/tags/honours/</link>
-      <pubDate>Sat, 26 Jan 2019 00:00:00 +1100</pubDate>
-      
-      <guid>/tags/honours/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PhD</title>
-      <link>/tags/phd/</link>
-      <pubDate>Sat, 26 Jan 2019 00:00:00 +1100</pubDate>
-      
-      <guid>/tags/phd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>alumni</title>
       <link>/tags/alumni/</link>
       <pubDate>Sat, 26 Jan 2019 00:00:00 +1100</pubDate>
@@ -81,6 +63,24 @@
       <pubDate>Sat, 26 Jan 2019 00:00:00 +1100</pubDate>
       
       <guid>/tags/ewsb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Honours</title>
+      <link>/tags/honours/</link>
+      <pubDate>Sat, 26 Jan 2019 00:00:00 +1100</pubDate>
+      
+      <guid>/tags/honours/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PhD</title>
+      <link>/tags/phd/</link>
+      <pubDate>Sat, 26 Jan 2019 00:00:00 +1100</pubDate>
+      
+      <guid>/tags/phd/</guid>
       <description></description>
     </item>
     

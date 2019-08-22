@@ -13,16 +13,6 @@
     
       <loc>/</loc>
       <lastmod>2019-08-15T00:00:00+10:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/</loc>
-      <lastmod>2019-08-15T00:00:00+10:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -31,7 +21,14 @@
     
       <loc>/tags/neutrinos/</loc>
       <lastmod>2019-08-15T00:00:00+10:00</lastmod>
-      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/</loc>
+      <lastmod>2019-08-15T00:00:00+10:00</lastmod>
     </url>
     
   
@@ -54,7 +51,31 @@
     
     <url>
     
+      <loc>/tags/alumni/</loc>
+      <lastmod>2019-01-26T00:00:00+11:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/projects/clfv/</loc>
+      <lastmod>2019-01-26T00:00:00+11:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/clfv/</loc>
+      <lastmod>2019-01-26T00:00:00+11:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/current/</loc>
       <lastmod>2019-01-26T00:00:00+11:00</lastmod>
     </url>
     
@@ -70,7 +91,23 @@
     
     <url>
     
+      <loc>/tags/dark-matter/</loc>
+      <lastmod>2019-01-26T00:00:00+11:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/people/bahman-ghadirian/</loc>
+      <lastmod>2019-01-26T00:00:00+11:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/ewsb/</loc>
       <lastmod>2019-01-26T00:00:00+11:00</lastmod>
     </url>
     
@@ -80,7 +117,6 @@
     
       <loc>/tags/honours/</loc>
       <lastmod>2019-01-26T00:00:00+11:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -97,7 +133,6 @@
     
       <loc>/people/</loc>
       <lastmod>2019-01-26T00:00:00+11:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -106,7 +141,6 @@
     
       <loc>/tags/phd/</loc>
       <lastmod>2019-01-26T00:00:00+11:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -115,7 +149,6 @@
     
       <loc>/projects/</loc>
       <lastmod>2019-01-26T00:00:00+11:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -162,62 +195,16 @@
     
     <url>
     
-      <loc>/people/tobias-felkl/</loc>
-      <lastmod>2019-01-26T00:00:00+11:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/alumni/</loc>
-      <lastmod>2019-01-26T00:00:00+11:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/clfv/</loc>
-      <lastmod>2019-01-26T00:00:00+11:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/current/</loc>
-      <lastmod>2019-01-26T00:00:00+11:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/dark-matter/</loc>
-      <lastmod>2019-01-26T00:00:00+11:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/ewsb/</loc>
-      <lastmod>2019-01-26T00:00:00+11:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/tags/susy/</loc>
       <lastmod>2019-01-26T00:00:00+11:00</lastmod>
-      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/people/tobias-felkl/</loc>
+      <lastmod>2019-01-26T00:00:00+11:00</lastmod>
     </url>
     
   
@@ -242,7 +229,6 @@
     
       <loc>/publication_types/2/</loc>
       <lastmod>2018-01-01T00:00:00+11:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -259,7 +245,6 @@
     
       <loc>/publication_types/</loc>
       <lastmod>2018-01-01T00:00:00+11:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -268,7 +253,6 @@
     
       <loc>/publication/</loc>
       <lastmod>2018-01-01T00:00:00+11:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -276,15 +260,6 @@
     <url>
     
       <loc>/tags/cp/</loc>
-      <lastmod>2017-12-21T00:00:00+11:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/201712-nuphys/</loc>
       <lastmod>2017-12-21T00:00:00+11:00</lastmod>
     </url>
     
@@ -294,7 +269,14 @@
     
       <loc>/tags/flavour-symmetry/</loc>
       <lastmod>2017-12-21T00:00:00+11:00</lastmod>
-      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/talk/201712-nuphys/</loc>
+      <lastmod>2017-12-21T00:00:00+11:00</lastmod>
     </url>
     
   
@@ -327,7 +309,6 @@
     
       <loc>/tags/b-physics/</loc>
       <lastmod>2017-07-24T00:00:00+10:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -703,7 +684,6 @@
     <url>
     
       <loc>/categories/</loc>
-      <priority>0</priority>
     </url>
     
   
