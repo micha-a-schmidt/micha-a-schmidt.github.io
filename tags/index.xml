@@ -7,19 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Thu, 15 Aug 2019 00:00:00 +1000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Jan 2019 00:00:00 +1100</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>neutrinos</title>
-      <link>/tags/neutrinos/</link>
-      <pubDate>Thu, 15 Aug 2019 00:00:00 +1000</pubDate>
-      
-      <guid>/tags/neutrinos/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Honours</title>
@@ -81,6 +72,15 @@
       <pubDate>Sat, 26 Jan 2019 00:00:00 +1100</pubDate>
       
       <guid>/tags/ewsb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>neutrinos</title>
+      <link>/tags/neutrinos/</link>
+      <pubDate>Sat, 26 Jan 2019 00:00:00 +1100</pubDate>
+      
+      <guid>/tags/neutrinos/</guid>
       <description></description>
     </item>
     

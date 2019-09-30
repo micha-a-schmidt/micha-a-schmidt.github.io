@@ -6,26 +6,8 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Thu, 15 Aug 2019 00:00:00 +1000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Jan 2019 00:00:00 +1100</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>A systematic approach to neutrino masses and their phenomenology</title>
-      <link>/talk/201910-taipei/</link>
-      <pubDate>Thu, 15 Aug 2019 00:00:00 +1000</pubDate>
-      
-      <guid>/talk/201910-taipei/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tbd</title>
-      <link>/talk/201909-quynhon/</link>
-      <pubDate>Thu, 15 Aug 2019 00:00:00 +1000</pubDate>
-      
-      <guid>/talk/201909-quynhon/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Adam Lackner</title>
@@ -163,6 +145,24 @@ A well-motivated possibility is to identify the new resonance with the lightest 
       <pubDate>Thu, 24 May 2018 00:00:00 +1000</pubDate>
       
       <guid>/talk/201805-planck/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dark matter direct detection of a fermionic singlet at one loop</title>
+      <link>/publication/1803.05660/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1100</pubDate>
+      
+      <guid>/publication/1803.05660/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theory review of flavour models and CPV</title>
+      <link>/talk/201712-nuphys/</link>
+      <pubDate>Thu, 21 Dec 2017 00:00:00 +1100</pubDate>
+      
+      <guid>/talk/201712-nuphys/</guid>
       <description></description>
     </item>
     
