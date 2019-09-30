@@ -6,51 +6,163 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Thu, 15 Aug 2019 00:00:00 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 15 Aug 2019 00:00:00 +1000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Peoples</title>
-      <link>/people/</link>
-      <pubDate>Sat, 26 Jan 2019 00:00:00 +0700</pubDate>
+      <title>A systematic approach to neutrino masses and their phenomenology</title>
+      <link>/talk/201910-taipei/</link>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 +1000</pubDate>
       
-      <guid>/people/</guid>
+      <guid>/talk/201910-taipei/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Projects</title>
-      <link>/projects/</link>
-      <pubDate>Sat, 26 Jan 2019 00:00:00 +0700</pubDate>
+      <title>tbd</title>
+      <link>/talk/201909-quynhon/</link>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 +1000</pubDate>
       
-      <guid>/projects/</guid>
+      <guid>/talk/201909-quynhon/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Publications</title>
-      <link>/publication/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0700</pubDate>
+      <title>Adam Lackner</title>
+      <link>/people/adam-lackner/</link>
+      <pubDate>Sat, 26 Jan 2019 00:00:00 +1100</pubDate>
       
-      <guid>/publication/</guid>
+      <guid>/people/adam-lackner/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Posts</title>
-      <link>/post/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0700</pubDate>
+      <title>Charged lepton flavour violation</title>
+      <link>/projects/clfv/</link>
+      <pubDate>Sat, 26 Jan 2019 00:00:00 +1100</pubDate>
       
-      <guid>/post/</guid>
+      <guid>/projects/clfv/</guid>
+      <description>&lt;p&gt;In the standard model the three lepton flavours are separately conserved. The observation of neutrino oscillations and thus neutrino masses clearly established the violation of two linear combinations of the lepton flavour numbers. This implies the existence of charged lepton flavour violating processes, where charged leptons change flavour in absence of neutrinos. These processes exist, but are extremely small if induced by the three active light neutrinos due to unitarity of the leptonic mixing matrix and the
+smallness of neutrino masses. Many other neutrino mass models, such as the inverse seesaw model and radiative neutrino mass models, predict sizable charged-lepton-flavour-violating (CLFV) processes.
+CLFV can also arise in many other extensions of the SM such as multi-Higgs doublet models or the minimal supersymmetric standard model via gauginos-slepton loops with off-diagonal terms in the slepton soft mass matrix.&lt;/p&gt;
+
+&lt;p&gt;I am interested in studying the interplay between searches at the high-energy colliders and precision experiments.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dark matter</title>
+      <link>/projects/dark-matter/</link>
+      <pubDate>Sat, 26 Jan 2019 00:00:00 +1100</pubDate>
+      
+      <guid>/projects/dark-matter/</guid>
+      <description>&lt;p&gt;The simplest and most compelling explanation of the missing mass in the Universe is in terms of particle dark matter. There are many different well motivated dark matter candidates in models of physics beyond the standard model. Examples include axions, which are predicted by dynamic solutions to the strong CP problem, weakly interacting massive particles (WIMPs) which naturally occur in supersymmetry or any model with an unbroken (discrete) symmetry, keV sterile neutrinos, asymmetric dark matter to name a few. WIMP dark matter is currently the most popular dark matter candidate, but other dark matter candidates have been considered more seriously in recent years because of the absence of a signal of WIMP dark matter.&lt;/p&gt;
+
+&lt;p&gt;My research interest lies both in the area of WIMP dark matter and how to avoid current constraints and other dark matter models such as keV sterile neutrinos.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dr Bahman Ghadirian</title>
+      <link>/people/bahman-ghadirian/</link>
+      <pubDate>Sat, 26 Jan 2019 00:00:00 +1100</pubDate>
+      
+      <guid>/people/bahman-ghadirian/</guid>
+      <description>&lt;p&gt;Now in private sector&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Neutrino masses</title>
+      <link>/projects/neutrinos/</link>
+      <pubDate>Sat, 26 Jan 2019 00:00:00 +1100</pubDate>
+      
+      <guid>/projects/neutrinos/</guid>
+      <description>&lt;p&gt;The Standard Model predicts neutrinos to be massless. However the observation of neutrino oscillations clearly established that neutrinos are massive. In the last 20 years there has been a tremendous experimental progress. From the first discovery neutrino oscillations experiments are making precision measurements of the leptonic mixing parameters and the neutrino mass squared differences. I have worked on different aspects of neutrino physics including model building and phenomenology of neutrino mass models, models of flavour in the lepton sector and quantum corrections.&lt;/p&gt;
+
+&lt;p&gt;New physics beyond the standard model is needed to account for neutrino masses, but we do not know what this new physics is. In the end experiment has to determine the correct model of neutrino mass. However theorists can provide guidance by working out the phenomenology of different models and by identifiying the most interesting experimental signatures.&lt;/p&gt;
+
+&lt;p&gt;Related to the quest for the origin of neutrino mass, the pattern of the leptonic mixing matrix requires an explanation: one of the mixing angles is close to maximal and one large in contrast to the quark sector with small mixing angles. (Discrete) flavour symmetries provide a guiding principle to understand the mixing angles. Combining a flavour symmetry with a CP symmetry additionally constrains the (Majorana) phases.&lt;/p&gt;
+
+&lt;p&gt;Theory generally predicts the flavour structure at a high energy scale while measurements are performed at a low energy scale. The high-scale predictions are related with the low-scale values via renormalization group equations, which systematically resum the leading quantum corrections. These renormalization group corrections are of the same order of magnitude as the sensitivity of the next-generation experiments and thus have to be taken into accout to properly compare theory predictions to the experimental data.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ruihao Li</title>
+      <link>/people/ruihao-li/</link>
+      <pubDate>Sat, 26 Jan 2019 00:00:00 +1100</pubDate>
+      
+      <guid>/people/ruihao-li/</guid>
+      <description>&lt;p&gt;PhD student at Case Western University with Pavel Fileviez Perez&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rupert Coy</title>
+      <link>/people/rupert-coy/</link>
+      <pubDate>Sat, 26 Jan 2019 00:00:00 +1100</pubDate>
+      
+      <guid>/people/rupert-coy/</guid>
+      <description>&lt;p&gt;PhD student at Montpellier University with Michele Frigerio&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Searches for CLFV at Current and Future Colliders</title>
+      <link>/talk/201902-monash/</link>
+      <pubDate>Sat, 26 Jan 2019 00:00:00 +1100</pubDate>
+      
+      <guid>/talk/201902-monash/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>/talk/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0700</pubDate>
+      <title>Searches for CLFV at Current and Future Colliders</title>
+      <link>/talk/201906-clfv/</link>
+      <pubDate>Sat, 26 Jan 2019 00:00:00 +1100</pubDate>
       
-      <guid>/talk/</guid>
+      <guid>/talk/201906-clfv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supersymmetry Phenomenology</title>
+      <link>/projects/susy/</link>
+      <pubDate>Sat, 26 Jan 2019 00:00:00 +1100</pubDate>
+      
+      <guid>/projects/susy/</guid>
+      <description>&lt;p&gt;The discovery of the Higgs boson at the Large Hadron Collider (LHC) provides compelling evidence that the Higgs mechanism is responsible for the generation of elementary particle masses in the Standard Model (SM). An important next question is to ascertain the nature of this new particle by measuring its properties and couplings.&lt;br /&gt;
+A well-motivated possibility is to identify the new resonance with the lightest Higgs boson in the supersymmetric standard model. Supersymmetry (SUSY) provides a natural solution to the hierarchy problem while simultaneously allowing for gauge coupling unification and a suitable dark matter candidate. I am interested in supersymmetry phenomenology and have considered dark matter explanations of the GeV excess of photons observed by the Fermi satellite and different aspects of fine tuning/naturalness.&lt;/p&gt;
+
+&lt;p&gt;A Higgs  boson  at  125  GeV  is  in  extreme  tension  with  maintaining  naturalness  in  the Minimal Supersymmetric Standard Model (MSSM). As is well-known, large radiative corrections from stop loops are required to enhance the Higgs quartic coupling which originates at tree-level from D-terms.  This is accomplished by either having large O(1 TeV) stop masses,  in the case of negligible  mixing in  the stop  sector,  or a  large trilinear At-term.  In either  case,  a  fine-tuned cancellation caused by this little hierarchy is needed to obtain the correct electroweak symmetry breaking scale. This motivates the introduction of an additional singlet which provides an additional tree-level contribution to the Higgs boson mass and thus the discussion of the next-to-minimal supersymmetric standard model (NMSSM).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tobias Felkl</title>
+      <link>/people/tobias-felkl/</link>
+      <pubDate>Sat, 26 Jan 2019 00:00:00 +1100</pubDate>
+      
+      <guid>/people/tobias-felkl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Charged lepton flavour violation</title>
+      <link>/talk/201811-cepc/</link>
+      <pubDate>Tue, 13 Nov 2018 00:00:00 +1100</pubDate>
+      
+      <guid>/talk/201811-cepc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dark matter direct detection at one loop</title>
+      <link>/talk/201805-planck/</link>
+      <pubDate>Thu, 24 May 2018 00:00:00 +1000</pubDate>
+      
+      <guid>/talk/201805-planck/</guid>
       <description></description>
     </item>
     
