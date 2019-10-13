@@ -206,6 +206,15 @@
     
     <item>
       <title></title>
+      <link>/authors/adam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/adam/</guid>
+      <description>&lt;p&gt;My research is focussed on neutrino physics.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
@@ -215,10 +224,42 @@
     
     <item>
       <title></title>
+      <link>/authors/bahman/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/bahman/</guid>
+      <description>&lt;p&gt;My research was focussed on neutrino physics.
+Now working at TuitionWorks Australia.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/ruihao/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/ruihao/</guid>
+      <description>&lt;p&gt;My research was focussed on neutrino physics.
+Now I am a PhD student at Case Western University.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/rupert/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/rupert/</guid>
+      <description>&lt;p&gt;My research was focussed on dark matter.
+After my Honours project at the University of Sydney, I moved to the University of Montpellier as a graduate students.
+Now I am a postdoc at the Universite Libre de Bruxelles.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>/authors/tobias/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/tobias/</guid>
-      <description></description>
+      <description>&lt;p&gt;My research is focussed on neutrino and flavour physics.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
