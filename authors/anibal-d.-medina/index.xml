@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anibal D. Medina | Dr Michael A Schmidt</title>
+    <link>/authors/anibal-d.-medina/</link>
+      <atom:link href="/authors/anibal-d.-medina/index.xml" rel="self" type="application/rss+xml" />
+    <description>Anibal D. Medina</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +1100</lastBuildDate>
+    <image>
+      <url>/img/portrait.jpg</url>
+      <title>Anibal D. Medina</title>
+      <link>/authors/anibal-d.-medina/</link>
+    </image>
+    
+    <item>
+      <title>The Scale-Invariant NMSSM and the 126 GeV Higgs Boson</title>
+      <link>/publication/1212.5243/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +1100</pubDate>
+      <guid>/publication/1212.5243/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

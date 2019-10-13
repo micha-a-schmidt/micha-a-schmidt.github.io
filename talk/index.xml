@@ -1,32 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks on Dr Michael A Schmidt</title>
+    <title>Recent &amp; Upcoming Talks | Dr Michael A Schmidt</title>
     <link>/talk/</link>
-    <description>Recent content in Recent &amp; Upcoming Talks on Dr Michael A Schmidt</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +1100</lastBuildDate>
-    
-	<atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +1100</lastBuildDate>
+    <image>
+      <url>/img/portrait.jpg</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>/talk/</link>
+    </image>
     
     <item>
-      <title>Searches for CLFV at Current and Future Colliders</title>
-      <link>/talk/201902-monash/</link>
-      <pubDate>Sat, 26 Jan 2019 00:00:00 +1100</pubDate>
-      
-      <guid>/talk/201902-monash/</guid>
+      <title>A systematic approach to neutrino masses and their phenomenology</title>
+      <link>/talk/201912-sydney/</link>
+      <pubDate>Sat, 12 Oct 2019 00:00:00 +1100</pubDate>
+      <guid>/talk/201912-sydney/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Searches for charged lepton flavour violation at colliders</title>
+      <link>/talk/201910-taipei/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +1000</pubDate>
+      <guid>/talk/201910-taipei/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Searches for charged lepton flavour violation at colliders</title>
+      <link>/talk/201909-quynhon/</link>
+      <pubDate>Sun, 15 Sep 2019 00:00:00 +1000</pubDate>
+      <guid>/talk/201909-quynhon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Searches for CLFV at Current and Future Colliders</title>
       <link>/talk/201906-clfv/</link>
-      <pubDate>Sat, 26 Jan 2019 00:00:00 +1100</pubDate>
-      
+      <pubDate>Tue, 25 Jun 2019 00:00:00 +1000</pubDate>
       <guid>/talk/201906-clfv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Searches for CLFV at Current and Future Colliders</title>
+      <link>/talk/201902-monash/</link>
+      <pubDate>Mon, 18 Feb 2019 00:00:00 +1100</pubDate>
+      <guid>/talk/201902-monash/</guid>
       <description></description>
     </item>
     
@@ -34,7 +56,6 @@
       <title>Charged lepton flavour violation</title>
       <link>/talk/201811-cepc/</link>
       <pubDate>Tue, 13 Nov 2018 00:00:00 +1100</pubDate>
-      
       <guid>/talk/201811-cepc/</guid>
       <description></description>
     </item>
@@ -43,7 +64,6 @@
       <title>Dark matter direct detection at one loop</title>
       <link>/talk/201805-planck/</link>
       <pubDate>Thu, 24 May 2018 00:00:00 +1000</pubDate>
-      
       <guid>/talk/201805-planck/</guid>
       <description></description>
     </item>
@@ -52,7 +72,6 @@
       <title>Theory review of flavour models and CPV</title>
       <link>/talk/201712-nuphys/</link>
       <pubDate>Thu, 21 Dec 2017 00:00:00 +1100</pubDate>
-      
       <guid>/talk/201712-nuphys/</guid>
       <description></description>
     </item>
@@ -61,7 +80,6 @@
       <title>Dark matter direct detection at one loop</title>
       <link>/talk/201712-cospa/</link>
       <pubDate>Tue, 12 Dec 2017 00:00:00 +1100</pubDate>
-      
       <guid>/talk/201712-cospa/</guid>
       <description></description>
     </item>
@@ -70,7 +88,6 @@
       <title>A connection between neutrino mass and the recent B physics anomalies</title>
       <link>/talk/201709-nufact/</link>
       <pubDate>Fri, 29 Sep 2017 00:00:00 +1000</pubDate>
-      
       <guid>/talk/201709-nufact/</guid>
       <description></description>
     </item>
@@ -79,7 +96,6 @@
       <title>From the trees to the forest: the search for the origin of neutrino mass</title>
       <link>/talk/201709-launch/</link>
       <pubDate>Thu, 14 Sep 2017 00:00:00 +1000</pubDate>
-      
       <guid>/talk/201709-launch/</guid>
       <description></description>
     </item>
@@ -88,7 +104,6 @@
       <title>Reconsidering the one leptoquark solution: Flavor anomalies and neutrino mass</title>
       <link>/talk/201707-zhengzhou/</link>
       <pubDate>Mon, 24 Jul 2017 00:00:00 +1000</pubDate>
-      
       <guid>/talk/201707-zhengzhou/</guid>
       <description></description>
     </item>
@@ -97,7 +112,6 @@
       <title>Unitarisation of EFT Amplitudes for Dark Matter Searches at the LHC</title>
       <link>/talk/201707-dsu/</link>
       <pubDate>Mon, 10 Jul 2017 00:00:00 +1000</pubDate>
-      
       <guid>/talk/201707-dsu/</guid>
       <description></description>
     </item>
@@ -106,7 +120,6 @@
       <title>LHC vs. Precision Experiments - A Comparison of the sensitivity to LFV D6 operators QQLL</title>
       <link>/talk/201609-flasy/</link>
       <pubDate>Wed, 28 Sep 2016 00:00:00 +1000</pubDate>
-      
       <guid>/talk/201609-flasy/</guid>
       <description></description>
     </item>
@@ -115,7 +128,6 @@
       <title>Sterile Neutrino Dark Matter - Production from Scalar Decay</title>
       <link>/talk/201608-quynhon/</link>
       <pubDate>Tue, 23 Aug 2016 00:00:00 +1000</pubDate>
-      
       <guid>/talk/201608-quynhon/</guid>
       <description></description>
     </item>
@@ -124,7 +136,6 @@
       <title>Sterile neutrino dark matter production from scalar decay</title>
       <link>/talk/201607-dsu/</link>
       <pubDate>Tue, 26 Jul 2016 00:00:00 +1000</pubDate>
-      
       <guid>/talk/201607-dsu/</guid>
       <description></description>
     </item>
@@ -133,7 +144,6 @@
       <title>Unitarisation of EFT Amplitudes for Dark Matter Searches at the LHC</title>
       <link>/talk/201607-idm/</link>
       <pubDate>Wed, 20 Jul 2016 00:00:00 +1000</pubDate>
-      
       <guid>/talk/201607-idm/</guid>
       <description></description>
     </item>
@@ -142,7 +152,6 @@
       <title>LHC vs. Precision Experiments - A Comparison of the sensitivity to LFV D6 operators QQLL</title>
       <link>/talk/201607-susy/</link>
       <pubDate>Tue, 05 Jul 2016 00:00:00 +1000</pubDate>
-      
       <guid>/talk/201607-susy/</guid>
       <description></description>
     </item>
@@ -151,7 +160,6 @@
       <title>LHC vs. Precision Experiments - A Comparison of LFV D6 Operators QQLL at the LHC and Precision Experiments</title>
       <link>/talk/201602-torquay/</link>
       <pubDate>Thu, 18 Feb 2016 00:00:00 +1100</pubDate>
-      
       <guid>/talk/201602-torquay/</guid>
       <description></description>
     </item>
@@ -160,7 +168,6 @@
       <title>Origin of Neutrino Mass and Its Experimental Test</title>
       <link>/talk/201506-workingmonth/</link>
       <pubDate>Mon, 29 Jun 2015 00:00:00 +1000</pubDate>
-      
       <guid>/talk/201506-workingmonth/</guid>
       <description></description>
     </item>
@@ -169,7 +176,6 @@
       <title>SUSY implications from WIMP annihilation into scalars at the Galactic Cetnre</title>
       <link>/talk/201503-eastchina/</link>
       <pubDate>Wed, 25 Mar 2015 00:00:00 +1100</pubDate>
-      
       <guid>/talk/201503-eastchina/</guid>
       <description></description>
     </item>
@@ -178,7 +184,6 @@
       <title>Origin of Neutrino Mass and the LHC</title>
       <link>/talk/201406-tevpa/</link>
       <pubDate>Fri, 27 Jun 2014 00:00:00 +1000</pubDate>
-      
       <guid>/talk/201406-tevpa/</guid>
       <description></description>
     </item>
@@ -187,7 +192,6 @@
       <title>Origin of Neutrino Mass and the LHC</title>
       <link>/talk/201406-flasy/</link>
       <pubDate>Wed, 18 Jun 2014 00:00:00 +1000</pubDate>
-      
       <guid>/talk/201406-flasy/</guid>
       <description></description>
     </item>
@@ -196,7 +200,6 @@
       <title>Neutrino Mass Generation and Its Experimental Test</title>
       <link>/talk/201402-wollongong/</link>
       <pubDate>Thu, 20 Feb 2014 00:00:00 +1100</pubDate>
-      
       <guid>/talk/201402-wollongong/</guid>
       <description></description>
     </item>
@@ -205,7 +208,6 @@
       <title>Origin of Neutrino Mass and Flavour Physics</title>
       <link>/talk/201402-kek/</link>
       <pubDate>Sat, 15 Feb 2014 00:00:00 +1100</pubDate>
-      
       <guid>/talk/201402-kek/</guid>
       <description></description>
     </item>
@@ -214,7 +216,6 @@
       <title>Origin of Neutrino Mass and the LHC</title>
       <link>/talk/201402-singapore/</link>
       <pubDate>Tue, 11 Feb 2014 00:00:00 +1100</pubDate>
-      
       <guid>/talk/201402-singapore/</guid>
       <description></description>
     </item>
@@ -223,7 +224,6 @@
       <title>The Scale-Invariant NMSSM and the 126 GeV Higgs Boson</title>
       <link>/talk/201305-planck/</link>
       <pubDate>Wed, 22 May 2013 00:00:00 +1000</pubDate>
-      
       <guid>/talk/201305-planck/</guid>
       <description></description>
     </item>
@@ -232,7 +232,6 @@
       <title>The Scale-Invariant NMSSM and the 126 GeV Higgs Boson</title>
       <link>/talk/201305-pheno/</link>
       <pubDate>Tue, 07 May 2013 00:00:00 +1000</pubDate>
-      
       <guid>/talk/201305-pheno/</guid>
       <description></description>
     </item>
@@ -241,7 +240,6 @@
       <title>Implications of a SM like Higgs for a natural NMSSM with low cutoff</title>
       <link>/talk/201207-ichep/</link>
       <pubDate>Fri, 06 Jul 2012 00:00:00 +1000</pubDate>
-      
       <guid>/talk/201207-ichep/</guid>
       <description></description>
     </item>
@@ -250,7 +248,6 @@
       <title>Flavour Structure from the Seesaw</title>
       <link>/talk/201206-smirnovfest/</link>
       <pubDate>Thu, 28 Jun 2012 00:00:00 +1000</pubDate>
-      
       <guid>/talk/201206-smirnovfest/</guid>
       <description></description>
     </item>
@@ -259,7 +256,6 @@
       <title>Implications of a SM like Higgs for a natural NMSSM with low cutoff</title>
       <link>/talk/201205-planck/</link>
       <pubDate>Wed, 30 May 2012 00:00:00 +1000</pubDate>
-      
       <guid>/talk/201205-planck/</guid>
       <description></description>
     </item>
@@ -268,7 +264,6 @@
       <title>A Flavour of Neutrino Masses and Lepton Mixing</title>
       <link>/talk/201112-coepp/</link>
       <pubDate>Thu, 01 Dec 2011 00:00:00 +1100</pubDate>
-      
       <guid>/talk/201112-coepp/</guid>
       <description></description>
     </item>
@@ -277,7 +272,6 @@
       <title>AMEND - A Model Explaining Neutrino Masses and Dark Matter</title>
       <link>/talk/201109-ippp/</link>
       <pubDate>Fri, 16 Sep 2011 00:00:00 +1000</pubDate>
-      
       <guid>/talk/201109-ippp/</guid>
       <description></description>
     </item>
@@ -286,7 +280,6 @@
       <title>A Leptophilic Model Explaining Neutrino Masses and Dark Matter</title>
       <link>/talk/201107-pascos/</link>
       <pubDate>Thu, 07 Jul 2011 00:00:00 +1000</pubDate>
-      
       <guid>/talk/201107-pascos/</guid>
       <description></description>
     </item>
@@ -295,7 +288,6 @@
       <title>A Leptophilic Model Explaining Neutrino Masses and Dark Matter</title>
       <link>/talk/201006-planck/</link>
       <pubDate>Wed, 02 Jun 2010 00:00:00 +1000</pubDate>
-      
       <guid>/talk/201006-planck/</guid>
       <description></description>
     </item>
@@ -304,7 +296,6 @@
       <title>Flavored Orbifold GUT: a SO(10)xS4 Model</title>
       <link>/talk/201003-ukneutrino/</link>
       <pubDate>Wed, 17 Mar 2010 00:00:00 +1100</pubDate>
-      
       <guid>/talk/201003-ukneutrino/</guid>
       <description></description>
     </item>
@@ -313,7 +304,6 @@
       <title>Flavored Orbifold GUT: a SO(10)xS4 Model</title>
       <link>/talk/201002-nuhorizons/</link>
       <pubDate>Mon, 08 Feb 2010 00:00:00 +1100</pubDate>
-      
       <guid>/talk/201002-nuhorizons/</guid>
       <description></description>
     </item>
@@ -322,7 +312,6 @@
       <title>Preliminary Results of a Study of Beta Beams of LAGUNA Sites</title>
       <link>/talk/200903-laguna/</link>
       <pubDate>Sun, 01 Nov 2009 00:00:00 +1100</pubDate>
-      
       <guid>/talk/200903-laguna/</guid>
       <description></description>
     </item>
@@ -331,7 +320,6 @@
       <title>Lepton Mixing and Cancellation of the Dirac Mass Hierarchy in SO(10) GUTs with Flavor Symmetries</title>
       <link>/talk/200902-ukneutrino/</link>
       <pubDate>Wed, 11 Feb 2009 00:00:00 +1100</pubDate>
-      
       <guid>/talk/200902-ukneutrino/</guid>
       <description></description>
     </item>
@@ -340,7 +328,6 @@
       <title>Study of Neutrinos with Megaton Detectors</title>
       <link>/talk/200811-laguna/</link>
       <pubDate>Sat, 01 Nov 2008 00:00:00 +1100</pubDate>
-      
       <guid>/talk/200811-laguna/</guid>
       <description></description>
     </item>
@@ -349,7 +336,6 @@
       <title>Renormalization Group Evolution in Type-I and Type-II Seesaw Scenarios</title>
       <link>/talk/200707-susy/</link>
       <pubDate>Thu, 26 Jul 2007 00:00:00 +1000</pubDate>
-      
       <guid>/talk/200707-susy/</guid>
       <description></description>
     </item>
@@ -358,7 +344,6 @@
       <title>Renormalization Group Evolution in Type-I and Type-II Seesaw Scenarios</title>
       <link>/talk/200706-planck/</link>
       <pubDate>Sat, 09 Jun 2007 00:00:00 +1000</pubDate>
-      
       <guid>/talk/200706-planck/</guid>
       <description></description>
     </item>
@@ -367,7 +352,6 @@
       <title>Running of Neutrino Mass Parameters</title>
       <link>/talk/200703-launch/</link>
       <pubDate>Wed, 21 Mar 2007 00:00:00 +1100</pubDate>
-      
       <guid>/talk/200703-launch/</guid>
       <description></description>
     </item>
@@ -376,7 +360,6 @@
       <title>Renormalization Group Evolution in Type-II Seesaw Models</title>
       <link>/talk/200703-dpg/</link>
       <pubDate>Mon, 05 Mar 2007 00:00:00 +1100</pubDate>
-      
       <guid>/talk/200703-dpg/</guid>
       <description></description>
     </item>
@@ -385,7 +368,6 @@
       <title>Running of Neutrino Mass Parameters in Seesaw Models</title>
       <link>/talk/200605-snow/</link>
       <pubDate>Thu, 04 May 2006 00:00:00 +1000</pubDate>
-      
       <guid>/talk/200605-snow/</guid>
       <description></description>
     </item>
@@ -394,7 +376,6 @@
       <title>Renormalization Group Evolution of Neutrino Masses</title>
       <link>/talk/200410-ect/</link>
       <pubDate>Mon, 04 Oct 2004 00:00:00 +1000</pubDate>
-      
       <guid>/talk/200410-ect/</guid>
       <description></description>
     </item>

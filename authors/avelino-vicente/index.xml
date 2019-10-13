@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Avelino Vicente | Dr Michael A Schmidt</title>
+    <link>/authors/avelino-vicente/</link>
+      <atom:link href="/authors/avelino-vicente/index.xml" rel="self" type="application/rss+xml" />
+    <description>Avelino Vicente</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +1100</lastBuildDate>
+    <image>
+      <url>/img/portrait.jpg</url>
+      <title>Avelino Vicente</title>
+      <link>/authors/avelino-vicente/</link>
+    </image>
+    
+    <item>
+      <title>From the trees to the forest: a review of radiative neutrino mass models</title>
+      <link>/publication/1706.08524/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +1100</pubDate>
+      <guid>/publication/1706.08524/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

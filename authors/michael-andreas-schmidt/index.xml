@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michael Andreas Schmidt | Dr Michael A Schmidt</title>
+    <link>/authors/michael-andreas-schmidt/</link>
+      <atom:link href="/authors/michael-andreas-schmidt/index.xml" rel="self" type="application/rss+xml" />
+    <description>Michael Andreas Schmidt</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 01 Jan 2007 00:00:00 +1100</lastBuildDate>
+    <image>
+      <url>/img/portrait.jpg</url>
+      <title>Michael Andreas Schmidt</title>
+      <link>/authors/michael-andreas-schmidt/</link>
+    </image>
+    
+    <item>
+      <title>Renormalization group evolution in the type I &#43; II seesaw model</title>
+      <link>/publication/0705.3841/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +1100</pubDate>
+      <guid>/publication/0705.3841/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Running neutrino mass parameters in see-saw scenarios</title>
+      <link>/publication/0501272/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +1100</pubDate>
+      <guid>/publication/0501272/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

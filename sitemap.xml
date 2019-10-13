@@ -1,694 +1,541 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-    
-    <url>
-    
-      <loc>/people/adam-lackner/</loc>
-      <lastmod>2019-01-26T00:00:00+11:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/projects/clfv/</loc>
-      <lastmod>2019-01-26T00:00:00+11:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/projects/dark-matter/</loc>
-      <lastmod>2019-01-26T00:00:00+11:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/people/bahman-ghadirian/</loc>
-      <lastmod>2019-01-26T00:00:00+11:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/</loc>
-      <lastmod>2019-01-26T00:00:00+11:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/honours/</loc>
-      <lastmod>2019-01-26T00:00:00+11:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/projects/neutrinos/</loc>
-      <lastmod>2019-01-26T00:00:00+11:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/people/</loc>
-      <lastmod>2019-01-26T00:00:00+11:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/phd/</loc>
-      <lastmod>2019-01-26T00:00:00+11:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/projects/</loc>
-      <lastmod>2019-01-26T00:00:00+11:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/people/ruihao-li/</loc>
-      <lastmod>2019-01-26T00:00:00+11:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/people/rupert-coy/</loc>
-      <lastmod>2019-01-26T00:00:00+11:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/201902-monash/</loc>
-      <lastmod>2019-01-26T00:00:00+11:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/201906-clfv/</loc>
-      <lastmod>2019-01-26T00:00:00+11:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/projects/susy/</loc>
-      <lastmod>2019-01-26T00:00:00+11:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/</loc>
-      <lastmod>2019-01-26T00:00:00+11:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/people/tobias-felkl/</loc>
-      <lastmod>2019-01-26T00:00:00+11:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/alumni/</loc>
-      <lastmod>2019-01-26T00:00:00+11:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/clfv/</loc>
-      <lastmod>2019-01-26T00:00:00+11:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/current/</loc>
-      <lastmod>2019-01-26T00:00:00+11:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/dark-matter/</loc>
-      <lastmod>2019-01-26T00:00:00+11:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/ewsb/</loc>
-      <lastmod>2019-01-26T00:00:00+11:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/neutrinos/</loc>
-      <lastmod>2019-01-26T00:00:00+11:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/susy/</loc>
-      <lastmod>2019-01-26T00:00:00+11:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/201811-cepc/</loc>
-      <lastmod>2018-11-13T00:00:00+11:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/201805-planck/</loc>
-      <lastmod>2018-05-24T00:00:00+10:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication_types/2/</loc>
-      <lastmod>2018-01-01T00:00:00+11:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/1803.05660/</loc>
-      <lastmod>2018-01-01T00:00:00+11:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication_types/</loc>
-      <lastmod>2018-01-01T00:00:00+11:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/</loc>
-      <lastmod>2018-01-01T00:00:00+11:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/cp/</loc>
-      <lastmod>2017-12-21T00:00:00+11:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/201712-nuphys/</loc>
-      <lastmod>2017-12-21T00:00:00+11:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/flavour-symmetry/</loc>
-      <lastmod>2017-12-21T00:00:00+11:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/201712-cospa/</loc>
-      <lastmod>2017-12-12T00:00:00+11:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/201709-nufact/</loc>
-      <lastmod>2017-09-29T00:00:00+10:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/201709-launch/</loc>
-      <lastmod>2017-09-14T00:00:00+10:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/b-physics/</loc>
-      <lastmod>2017-07-24T00:00:00+10:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/201707-zhengzhou/</loc>
-      <lastmod>2017-07-24T00:00:00+10:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/201707-dsu/</loc>
-      <lastmod>2017-07-10T00:00:00+10:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/1706.08524/</loc>
-      <lastmod>2017-01-01T00:00:00+11:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/post/</loc>
-      <lastmod>2017-01-01T00:00:00+11:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/</loc>
-      <lastmod>2017-01-01T00:00:00+11:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/1704.05849/</loc>
-      <lastmod>2017-01-01T00:00:00+11:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/201609-flasy/</loc>
-      <lastmod>2016-09-28T00:00:00+10:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/201608-quynhon/</loc>
-      <lastmod>2016-08-23T00:00:00+10:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/201607-dsu/</loc>
-      <lastmod>2016-07-26T00:00:00+10:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/201607-idm/</loc>
-      <lastmod>2016-07-20T00:00:00+10:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/201607-susy/</loc>
-      <lastmod>2016-07-05T00:00:00+10:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/201602-torquay/</loc>
-      <lastmod>2016-02-18T00:00:00+11:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/1606.02722/</loc>
-      <lastmod>2016-01-01T00:00:00+11:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/201506-workingmonth/</loc>
-      <lastmod>2015-06-29T00:00:00+10:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/201503-eastchina/</loc>
-      <lastmod>2015-03-25T00:00:00+11:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/201406-tevpa/</loc>
-      <lastmod>2014-06-27T00:00:00+10:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/201406-flasy/</loc>
-      <lastmod>2014-06-18T00:00:00+10:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/201402-wollongong/</loc>
-      <lastmod>2014-02-20T00:00:00+11:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/201402-kek/</loc>
-      <lastmod>2014-02-15T00:00:00+11:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/201402-singapore/</loc>
-      <lastmod>2014-02-11T00:00:00+11:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/1308.4314/</loc>
-      <lastmod>2014-01-01T00:00:00+11:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/201305-planck/</loc>
-      <lastmod>2013-05-22T00:00:00+10:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/201305-pheno/</loc>
-      <lastmod>2013-05-07T00:00:00+10:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/1211.6953/</loc>
-      <lastmod>2013-01-01T00:00:00+11:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/1212.5243/</loc>
-      <lastmod>2013-01-01T00:00:00+11:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/201207-ichep/</loc>
-      <lastmod>2012-07-06T00:00:00+10:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/201206-smirnovfest/</loc>
-      <lastmod>2012-06-28T00:00:00+10:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/201205-planck/</loc>
-      <lastmod>2012-05-30T00:00:00+10:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/201112-coepp/</loc>
-      <lastmod>2011-12-01T00:00:00+11:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/201109-ippp/</loc>
-      <lastmod>2011-09-16T00:00:00+10:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/201107-pascos/</loc>
-      <lastmod>2011-07-07T00:00:00+10:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/201006-planck/</loc>
-      <lastmod>2010-06-02T00:00:00+10:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/201003-ukneutrino/</loc>
-      <lastmod>2010-03-17T00:00:00+11:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/201002-nuhorizons/</loc>
-      <lastmod>2010-02-08T00:00:00+11:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/0911.0710/</loc>
-      <lastmod>2010-01-01T00:00:00+11:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/200903-laguna/</loc>
-      <lastmod>2009-11-01T00:00:00+11:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/200902-ukneutrino/</loc>
-      <lastmod>2009-02-11T00:00:00+11:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/200811-laguna/</loc>
-      <lastmod>2008-11-01T00:00:00+11:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/200707-susy/</loc>
-      <lastmod>2007-07-26T00:00:00+10:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/200706-planck/</loc>
-      <lastmod>2007-06-09T00:00:00+10:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/200703-launch/</loc>
-      <lastmod>2007-03-21T00:00:00+11:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/200703-dpg/</loc>
-      <lastmod>2007-03-05T00:00:00+11:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/0705.3841/</loc>
-      <lastmod>2007-01-01T00:00:00+11:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/200605-snow/</loc>
-      <lastmod>2006-05-04T00:00:00+10:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/0501272/</loc>
-      <lastmod>2005-01-01T00:00:00+11:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/200410-ect/</loc>
-      <lastmod>2004-10-04T00:00:00+10:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/courses/example/example1/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/example/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/example/example2/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/201912-sydney/</loc>
+    <lastmod>2019-10-12T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-10-12T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/neutrinos/</loc>
+    <lastmod>2019-10-12T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-10-12T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/clfv/</loc>
+    <lastmod>2019-10-01T00:00:00+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/201910-taipei/</loc>
+    <lastmod>2019-10-01T00:00:00+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/201909-quynhon/</loc>
+    <lastmod>2019-09-15T00:00:00+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/201906-clfv/</loc>
+    <lastmod>2019-06-25T00:00:00+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/201902-monash/</loc>
+    <lastmod>2019-02-18T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/projects/clfv/</loc>
+    <lastmod>2019-01-26T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/projects/dark-matter/</loc>
+    <lastmod>2019-01-26T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/dark-matter/</loc>
+    <lastmod>2019-01-26T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/ewsb/</loc>
+    <lastmod>2019-01-26T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/projects/neutrinos/</loc>
+    <lastmod>2019-01-26T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/projects/</loc>
+    <lastmod>2019-01-26T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/projects/susy/</loc>
+    <lastmod>2019-01-26T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/susy/</loc>
+    <lastmod>2019-01-26T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/201811-cepc/</loc>
+    <lastmod>2018-11-13T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/201805-planck/</loc>
+    <lastmod>2018-05-24T00:00:00+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2018-01-01T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2018-01-01T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/1803.05660/</loc>
+    <lastmod>2018-01-01T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/emiliano-molinaro/</loc>
+    <lastmod>2018-01-01T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/juan-herrero-garcia/</loc>
+    <lastmod>2018-01-01T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/michael-a.-schmidt/</loc>
+    <lastmod>2018-01-01T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2018-01-01T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2018-01-01T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/cp/</loc>
+    <lastmod>2017-12-21T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/flavour-symmetry/</loc>
+    <lastmod>2017-12-21T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/201712-nuphys/</loc>
+    <lastmod>2017-12-21T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/201712-cospa/</loc>
+    <lastmod>2017-12-12T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/201709-nufact/</loc>
+    <lastmod>2017-09-29T00:00:00+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/201709-launch/</loc>
+    <lastmod>2017-09-14T00:00:00+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/b-physics/</loc>
+    <lastmod>2017-07-24T00:00:00+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/201707-zhengzhou/</loc>
+    <lastmod>2017-07-24T00:00:00+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/201707-dsu/</loc>
+    <lastmod>2017-07-10T00:00:00+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/avelino-vicente/</loc>
+    <lastmod>2017-01-01T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/1706.08524/</loc>
+    <lastmod>2017-01-01T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/john-gargalionis/</loc>
+    <lastmod>2017-01-01T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2017-01-01T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/raymond-r.-volkas/</loc>
+    <lastmod>2017-01-01T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2017-01-01T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/1704.05849/</loc>
+    <lastmod>2017-01-01T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/yi-cai/</loc>
+    <lastmod>2017-01-01T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/201609-flasy/</loc>
+    <lastmod>2016-09-28T00:00:00+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/201608-quynhon/</loc>
+    <lastmod>2016-08-23T00:00:00+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/201607-dsu/</loc>
+    <lastmod>2016-07-26T00:00:00+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/201607-idm/</loc>
+    <lastmod>2016-07-20T00:00:00+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/201607-susy/</loc>
+    <lastmod>2016-07-05T00:00:00+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/201602-torquay/</loc>
+    <lastmod>2016-02-18T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/archil-kobakhidze/</loc>
+    <lastmod>2016-01-01T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/david-m.-long/</loc>
+    <lastmod>2016-01-01T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/giorgio-busoni/</loc>
+    <lastmod>2016-01-01T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/nicole-bell/</loc>
+    <lastmod>2016-01-01T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/1606.02722/</loc>
+    <lastmod>2016-01-01T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/201506-workingmonth/</loc>
+    <lastmod>2015-06-29T00:00:00+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/201503-eastchina/</loc>
+    <lastmod>2015-03-25T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/201406-tevpa/</loc>
+    <lastmod>2014-06-27T00:00:00+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/201406-flasy/</loc>
+    <lastmod>2014-06-18T00:00:00+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/201402-wollongong/</loc>
+    <lastmod>2014-02-20T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/201402-kek/</loc>
+    <lastmod>2014-02-15T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/201402-singapore/</loc>
+    <lastmod>2014-02-11T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/christoph-luhn/</loc>
+    <lastmod>2014-01-01T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/peter-ballett/</loc>
+    <lastmod>2014-01-01T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/silvia-pascoli/</loc>
+    <lastmod>2014-01-01T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/stephen-f.-king/</loc>
+    <lastmod>2014-01-01T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/1308.4314/</loc>
+    <lastmod>2014-01-01T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/201305-planck/</loc>
+    <lastmod>2013-05-22T00:00:00+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/201305-pheno/</loc>
+    <lastmod>2013-05-07T00:00:00+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/anibal-d.-medina/</loc>
+    <lastmod>2013-01-01T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/benedict-von-harling/</loc>
+    <lastmod>2013-01-01T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/1211.6953/</loc>
+    <lastmod>2013-01-01T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/manfred-lindner/</loc>
+    <lastmod>2013-01-01T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/martin-holthausen/</loc>
+    <lastmod>2013-01-01T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/1212.5243/</loc>
+    <lastmod>2013-01-01T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/tony-gherghetta/</loc>
+    <lastmod>2013-01-01T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/201207-ichep/</loc>
+    <lastmod>2012-07-06T00:00:00+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/201206-smirnovfest/</loc>
+    <lastmod>2012-06-28T00:00:00+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/201205-planck/</loc>
+    <lastmod>2012-05-30T00:00:00+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/201112-coepp/</loc>
+    <lastmod>2011-12-01T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/201109-ippp/</loc>
+    <lastmod>2011-09-16T00:00:00+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/201107-pascos/</loc>
+    <lastmod>2011-07-07T00:00:00+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/201006-planck/</loc>
+    <lastmod>2010-06-02T00:00:00+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/201003-ukneutrino/</loc>
+    <lastmod>2010-03-17T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/201002-nuhorizons/</loc>
+    <lastmod>2010-02-08T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/0911.0710/</loc>
+    <lastmod>2010-01-01T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/200903-laguna/</loc>
+    <lastmod>2009-11-01T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/200902-ukneutrino/</loc>
+    <lastmod>2009-02-11T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/200811-laguna/</loc>
+    <lastmod>2008-11-01T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/200707-susy/</loc>
+    <lastmod>2007-07-26T00:00:00+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/200706-planck/</loc>
+    <lastmod>2007-06-09T00:00:00+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/200703-launch/</loc>
+    <lastmod>2007-03-21T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/200703-dpg/</loc>
+    <lastmod>2007-03-05T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/michael-andreas-schmidt/</loc>
+    <lastmod>2007-01-01T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/0705.3841/</loc>
+    <lastmod>2007-01-01T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/200605-snow/</loc>
+    <lastmod>2006-05-04T00:00:00+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/jorn-kersten/</loc>
+    <lastmod>2005-01-01T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/michael-ratz/</loc>
+    <lastmod>2005-01-01T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/0501272/</loc>
+    <lastmod>2005-01-01T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/stefan-antusch/</loc>
+    <lastmod>2005-01-01T00:00:00+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/200410-ect/</loc>
+    <lastmod>2004-10-04T00:00:00+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/tobias/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/courses/</loc>
+  </url>
   
 </urlset>

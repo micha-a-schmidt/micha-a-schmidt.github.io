@@ -1,31 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>dark matter on Dr Michael A Schmidt</title>
+    <title>dark matter | Dr Michael A Schmidt</title>
     <link>/tags/dark-matter/</link>
-    <description>Recent content in dark matter on Dr Michael A Schmidt</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sat, 26 Jan 2019 00:00:00 +1100</lastBuildDate>
-    
-	<atom:link href="/tags/dark-matter/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/tags/dark-matter/index.xml" rel="self" type="application/rss+xml" />
+    <description>dark matter</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sat, 26 Jan 2019 00:00:00 +1100</lastBuildDate>
+    <image>
+      <url>/img/portrait.jpg</url>
+      <title>dark matter</title>
+      <link>/tags/dark-matter/</link>
+    </image>
     
     <item>
       <title>Dark matter</title>
       <link>/projects/dark-matter/</link>
       <pubDate>Sat, 26 Jan 2019 00:00:00 +1100</pubDate>
-      
       <guid>/projects/dark-matter/</guid>
-      <description>The simplest and most compelling explanation of the missing mass in the Universe is in terms of particle dark matter. There are many different well motivated dark matter candidates in models of physics beyond the standard model. Examples include axions, which are predicted by dynamic solutions to the strong CP problem, weakly interacting massive particles (WIMPs) which naturally occur in supersymmetry or any model with an unbroken (discrete) symmetry, keV sterile neutrinos, asymmetric dark matter to name a few.</description>
+      <description>&lt;p&gt;The simplest and most compelling explanation of the missing mass in the Universe is in terms of particle dark matter. There are many different well motivated dark matter candidates in models of physics beyond the standard model. Examples include axions, which are predicted by dynamic solutions to the strong CP problem, weakly interacting massive particles (WIMPs) which naturally occur in supersymmetry or any model with an unbroken (discrete) symmetry, keV sterile neutrinos, asymmetric dark matter to name a few. WIMP dark matter is currently the most popular dark matter candidate, but other dark matter candidates have been considered more seriously in recent years because of the absence of a signal of WIMP dark matter.&lt;/p&gt;
+
+&lt;p&gt;My research interest lies both in the area of WIMP dark matter and how to avoid current constraints and other dark matter models such as keV sterile neutrinos.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Dark matter direct detection at one loop</title>
       <link>/talk/201805-planck/</link>
       <pubDate>Thu, 24 May 2018 00:00:00 +1000</pubDate>
-      
       <guid>/talk/201805-planck/</guid>
       <description></description>
     </item>
@@ -34,7 +35,6 @@
       <title>Dark matter direct detection of a fermionic singlet at one loop</title>
       <link>/publication/1803.05660/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +1100</pubDate>
-      
       <guid>/publication/1803.05660/</guid>
       <description></description>
     </item>
@@ -43,7 +43,6 @@
       <title>Dark matter direct detection at one loop</title>
       <link>/talk/201712-cospa/</link>
       <pubDate>Tue, 12 Dec 2017 00:00:00 +1100</pubDate>
-      
       <guid>/talk/201712-cospa/</guid>
       <description></description>
     </item>
@@ -52,7 +51,6 @@
       <title>Unitarisation of EFT Amplitudes for Dark Matter Searches at the LHC</title>
       <link>/talk/201707-dsu/</link>
       <pubDate>Mon, 10 Jul 2017 00:00:00 +1000</pubDate>
-      
       <guid>/talk/201707-dsu/</guid>
       <description></description>
     </item>
@@ -61,7 +59,6 @@
       <title>Sterile Neutrino Dark Matter - Production from Scalar Decay</title>
       <link>/talk/201608-quynhon/</link>
       <pubDate>Tue, 23 Aug 2016 00:00:00 +1000</pubDate>
-      
       <guid>/talk/201608-quynhon/</guid>
       <description></description>
     </item>
@@ -70,7 +67,6 @@
       <title>Sterile neutrino dark matter production from scalar decay</title>
       <link>/talk/201607-dsu/</link>
       <pubDate>Tue, 26 Jul 2016 00:00:00 +1000</pubDate>
-      
       <guid>/talk/201607-dsu/</guid>
       <description></description>
     </item>
@@ -79,7 +75,6 @@
       <title>Unitarisation of EFT Amplitudes for Dark Matter Searches at the LHC</title>
       <link>/talk/201607-idm/</link>
       <pubDate>Wed, 20 Jul 2016 00:00:00 +1000</pubDate>
-      
       <guid>/talk/201607-idm/</guid>
       <description></description>
     </item>
@@ -88,7 +83,6 @@
       <title>Unitarisation of EFT Amplitudes for Dark Matter Searches at the LHC</title>
       <link>/publication/1606.02722/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +1100</pubDate>
-      
       <guid>/publication/1606.02722/</guid>
       <description></description>
     </item>
@@ -97,7 +91,6 @@
       <title>SUSY implications from WIMP annihilation into scalars at the Galactic Cetnre</title>
       <link>/talk/201503-eastchina/</link>
       <pubDate>Wed, 25 Mar 2015 00:00:00 +1100</pubDate>
-      
       <guid>/talk/201503-eastchina/</guid>
       <description></description>
     </item>
@@ -106,7 +99,6 @@
       <title>Testing atmospheric mixing sum rules at precision neutrino facilities</title>
       <link>/publication/1308.4314/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +1100</pubDate>
-      
       <guid>/publication/1308.4314/</guid>
       <description></description>
     </item>
@@ -115,7 +107,6 @@
       <title>A Leptophilic Model Explaining Neutrino Masses and Dark Matter</title>
       <link>/talk/201006-planck/</link>
       <pubDate>Wed, 02 Jun 2010 00:00:00 +1000</pubDate>
-      
       <guid>/talk/201006-planck/</guid>
       <description></description>
     </item>

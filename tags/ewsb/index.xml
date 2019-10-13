@@ -1,32 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ewsb on Dr Michael A Schmidt</title>
+    <title>ewsb | Dr Michael A Schmidt</title>
     <link>/tags/ewsb/</link>
-    <description>Recent content in ewsb on Dr Michael A Schmidt</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sat, 26 Jan 2019 00:00:00 +1100</lastBuildDate>
-    
-	<atom:link href="/tags/ewsb/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/tags/ewsb/index.xml" rel="self" type="application/rss+xml" />
+    <description>ewsb</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sat, 26 Jan 2019 00:00:00 +1100</lastBuildDate>
+    <image>
+      <url>/img/portrait.jpg</url>
+      <title>ewsb</title>
+      <link>/tags/ewsb/</link>
+    </image>
     
     <item>
       <title>Supersymmetry Phenomenology</title>
       <link>/projects/susy/</link>
       <pubDate>Sat, 26 Jan 2019 00:00:00 +1100</pubDate>
-      
       <guid>/projects/susy/</guid>
-      <description>The discovery of the Higgs boson at the Large Hadron Collider (LHC) provides compelling evidence that the Higgs mechanism is responsible for the generation of elementary particle masses in the Standard Model (SM). An important next question is to ascertain the nature of this new particle by measuring its properties and couplings.
-A well-motivated possibility is to identify the new resonance with the lightest Higgs boson in the supersymmetric standard model.</description>
+      <description>&lt;p&gt;The discovery of the Higgs boson at the Large Hadron Collider (LHC) provides compelling evidence that the Higgs mechanism is responsible for the generation of elementary particle masses in the Standard Model (SM). An important next question is to ascertain the nature of this new particle by measuring its properties and couplings.&lt;br /&gt;
+A well-motivated possibility is to identify the new resonance with the lightest Higgs boson in the supersymmetric standard model. Supersymmetry (SUSY) provides a natural solution to the hierarchy problem while simultaneously allowing for gauge coupling unification and a suitable dark matter candidate. I am interested in supersymmetry phenomenology and have considered dark matter explanations of the GeV excess of photons observed by the Fermi satellite and different aspects of fine tuning/naturalness.&lt;/p&gt;
+
+&lt;p&gt;A Higgs  boson  at  125  GeV  is  in  extreme  tension  with  maintaining  naturalness  in  the Minimal Supersymmetric Standard Model (MSSM). As is well-known, large radiative corrections from stop loops are required to enhance the Higgs quartic coupling which originates at tree-level from D-terms.  This is accomplished by either having large O(1 TeV) stop masses,  in the case of negligible  mixing in  the stop  sector,  or a  large trilinear At-term.  In either  case,  a  fine-tuned cancellation caused by this little hierarchy is needed to obtain the correct electroweak symmetry breaking scale. This motivates the introduction of an additional singlet which provides an additional tree-level contribution to the Higgs boson mass and thus the discussion of the next-to-minimal supersymmetric standard model (NMSSM).&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Radiative Symmetry Breaking of the Minimal Left-Right Symmetric Model</title>
       <link>/publication/0911.0710/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +1100</pubDate>
-      
       <guid>/publication/0911.0710/</guid>
       <description></description>
     </item>

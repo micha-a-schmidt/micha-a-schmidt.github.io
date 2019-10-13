@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Giorgio Busoni | Dr Michael A Schmidt</title>
+    <link>/authors/giorgio-busoni/</link>
+      <atom:link href="/authors/giorgio-busoni/index.xml" rel="self" type="application/rss+xml" />
+    <description>Giorgio Busoni</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +1100</lastBuildDate>
+    <image>
+      <url>/img/portrait.jpg</url>
+      <title>Giorgio Busoni</title>
+      <link>/authors/giorgio-busoni/</link>
+    </image>
+    
+    <item>
+      <title>Unitarisation of EFT Amplitudes for Dark Matter Searches at the LHC</title>
+      <link>/publication/1606.02722/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +1100</pubDate>
+      <guid>/publication/1606.02722/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

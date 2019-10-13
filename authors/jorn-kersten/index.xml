@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jörn Kersten | Dr Michael A Schmidt</title>
+    <link>/authors/jorn-kersten/</link>
+      <atom:link href="/authors/jorn-kersten/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jörn Kersten</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sat, 01 Jan 2005 00:00:00 +1100</lastBuildDate>
+    <image>
+      <url>/img/portrait.jpg</url>
+      <title>Jörn Kersten</title>
+      <link>/authors/jorn-kersten/</link>
+    </image>
+    
+    <item>
+      <title>Running neutrino mass parameters in see-saw scenarios</title>
+      <link>/publication/0501272/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +1100</pubDate>
+      <guid>/publication/0501272/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

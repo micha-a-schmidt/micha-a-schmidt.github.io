@@ -1,49 +1,66 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>clfv on Dr Michael A Schmidt</title>
+    <title>clfv | Dr Michael A Schmidt</title>
     <link>/tags/clfv/</link>
-    <description>Recent content in clfv on Dr Michael A Schmidt</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sat, 26 Jan 2019 00:00:00 +1100</lastBuildDate>
-    
-	<atom:link href="/tags/clfv/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/tags/clfv/index.xml" rel="self" type="application/rss+xml" />
+    <description>clfv</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +1000</lastBuildDate>
+    <image>
+      <url>/img/portrait.jpg</url>
+      <title>clfv</title>
+      <link>/tags/clfv/</link>
+    </image>
     
     <item>
-      <title>Charged lepton flavour violation</title>
-      <link>/projects/clfv/</link>
-      <pubDate>Sat, 26 Jan 2019 00:00:00 +1100</pubDate>
-      
-      <guid>/projects/clfv/</guid>
-      <description>In the standard model the three lepton flavours are separately conserved. The observation of neutrino oscillations and thus neutrino masses clearly established the violation of two linear combinations of the lepton flavour numbers. This implies the existence of charged lepton flavour violating processes, where charged leptons change flavour in absence of neutrinos. These processes exist, but are extremely small if induced by the three active light neutrinos due to unitarity of the leptonic mixing matrix and the smallness of neutrino masses.</description>
+      <title>Searches for charged lepton flavour violation at colliders</title>
+      <link>/talk/201910-taipei/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +1000</pubDate>
+      <guid>/talk/201910-taipei/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Searches for CLFV at Current and Future Colliders</title>
-      <link>/talk/201902-monash/</link>
-      <pubDate>Sat, 26 Jan 2019 00:00:00 +1100</pubDate>
-      
-      <guid>/talk/201902-monash/</guid>
+      <title>Searches for charged lepton flavour violation at colliders</title>
+      <link>/talk/201909-quynhon/</link>
+      <pubDate>Sun, 15 Sep 2019 00:00:00 +1000</pubDate>
+      <guid>/talk/201909-quynhon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Searches for CLFV at Current and Future Colliders</title>
       <link>/talk/201906-clfv/</link>
-      <pubDate>Sat, 26 Jan 2019 00:00:00 +1100</pubDate>
-      
+      <pubDate>Tue, 25 Jun 2019 00:00:00 +1000</pubDate>
       <guid>/talk/201906-clfv/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Searches for CLFV at Current and Future Colliders</title>
+      <link>/talk/201902-monash/</link>
+      <pubDate>Mon, 18 Feb 2019 00:00:00 +1100</pubDate>
+      <guid>/talk/201902-monash/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Charged lepton flavour violation</title>
+      <link>/projects/clfv/</link>
+      <pubDate>Sat, 26 Jan 2019 00:00:00 +1100</pubDate>
+      <guid>/projects/clfv/</guid>
+      <description>&lt;p&gt;In the standard model the three lepton flavours are separately conserved. The observation of neutrino oscillations and thus neutrino masses clearly established the violation of two linear combinations of the lepton flavour numbers. This implies the existence of charged lepton flavour violating processes, where charged leptons change flavour in absence of neutrinos. These processes exist, but are extremely small if induced by the three active light neutrinos due to unitarity of the leptonic mixing matrix and the
+smallness of neutrino masses. Many other neutrino mass models, such as the inverse seesaw model and radiative neutrino mass models, predict sizable charged-lepton-flavour-violating (CLFV) processes.
+CLFV can also arise in many other extensions of the SM such as multi-Higgs doublet models or the minimal supersymmetric standard model via gauginos-slepton loops with off-diagonal terms in the slepton soft mass matrix.&lt;/p&gt;
+
+&lt;p&gt;I am interested in studying the interplay between searches at the high-energy colliders and precision experiments.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Charged lepton flavour violation</title>
       <link>/talk/201811-cepc/</link>
       <pubDate>Tue, 13 Nov 2018 00:00:00 +1100</pubDate>
-      
       <guid>/talk/201811-cepc/</guid>
       <description></description>
     </item>
@@ -52,7 +69,6 @@
       <title>LHC vs. Precision Experiments - A Comparison of the sensitivity to LFV D6 operators QQLL</title>
       <link>/talk/201609-flasy/</link>
       <pubDate>Wed, 28 Sep 2016 00:00:00 +1000</pubDate>
-      
       <guid>/talk/201609-flasy/</guid>
       <description></description>
     </item>
@@ -61,7 +77,6 @@
       <title>LHC vs. Precision Experiments - A Comparison of the sensitivity to LFV D6 operators QQLL</title>
       <link>/talk/201607-susy/</link>
       <pubDate>Tue, 05 Jul 2016 00:00:00 +1000</pubDate>
-      
       <guid>/talk/201607-susy/</guid>
       <description></description>
     </item>
@@ -70,7 +85,6 @@
       <title>LHC vs. Precision Experiments - A Comparison of LFV D6 Operators QQLL at the LHC and Precision Experiments</title>
       <link>/talk/201602-torquay/</link>
       <pubDate>Thu, 18 Feb 2016 00:00:00 +1100</pubDate>
-      
       <guid>/talk/201602-torquay/</guid>
       <description></description>
     </item>

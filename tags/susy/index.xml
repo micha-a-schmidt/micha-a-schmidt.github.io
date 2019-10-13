@@ -1,32 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>susy on Dr Michael A Schmidt</title>
+    <title>susy | Dr Michael A Schmidt</title>
     <link>/tags/susy/</link>
-    <description>Recent content in susy on Dr Michael A Schmidt</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sat, 26 Jan 2019 00:00:00 +1100</lastBuildDate>
-    
-	<atom:link href="/tags/susy/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/tags/susy/index.xml" rel="self" type="application/rss+xml" />
+    <description>susy</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sat, 26 Jan 2019 00:00:00 +1100</lastBuildDate>
+    <image>
+      <url>/img/portrait.jpg</url>
+      <title>susy</title>
+      <link>/tags/susy/</link>
+    </image>
     
     <item>
       <title>Supersymmetry Phenomenology</title>
       <link>/projects/susy/</link>
       <pubDate>Sat, 26 Jan 2019 00:00:00 +1100</pubDate>
-      
       <guid>/projects/susy/</guid>
-      <description>The discovery of the Higgs boson at the Large Hadron Collider (LHC) provides compelling evidence that the Higgs mechanism is responsible for the generation of elementary particle masses in the Standard Model (SM). An important next question is to ascertain the nature of this new particle by measuring its properties and couplings.
-A well-motivated possibility is to identify the new resonance with the lightest Higgs boson in the supersymmetric standard model.</description>
+      <description>&lt;p&gt;The discovery of the Higgs boson at the Large Hadron Collider (LHC) provides compelling evidence that the Higgs mechanism is responsible for the generation of elementary particle masses in the Standard Model (SM). An important next question is to ascertain the nature of this new particle by measuring its properties and couplings.&lt;br /&gt;
+A well-motivated possibility is to identify the new resonance with the lightest Higgs boson in the supersymmetric standard model. Supersymmetry (SUSY) provides a natural solution to the hierarchy problem while simultaneously allowing for gauge coupling unification and a suitable dark matter candidate. I am interested in supersymmetry phenomenology and have considered dark matter explanations of the GeV excess of photons observed by the Fermi satellite and different aspects of fine tuning/naturalness.&lt;/p&gt;
+
+&lt;p&gt;A Higgs  boson  at  125  GeV  is  in  extreme  tension  with  maintaining  naturalness  in  the Minimal Supersymmetric Standard Model (MSSM). As is well-known, large radiative corrections from stop loops are required to enhance the Higgs quartic coupling which originates at tree-level from D-terms.  This is accomplished by either having large O(1 TeV) stop masses,  in the case of negligible  mixing in  the stop  sector,  or a  large trilinear At-term.  In either  case,  a  fine-tuned cancellation caused by this little hierarchy is needed to obtain the correct electroweak symmetry breaking scale. This motivates the introduction of an additional singlet which provides an additional tree-level contribution to the Higgs boson mass and thus the discussion of the next-to-minimal supersymmetric standard model (NMSSM).&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>The Scale-Invariant NMSSM and the 126 GeV Higgs Boson</title>
       <link>/talk/201305-planck/</link>
       <pubDate>Wed, 22 May 2013 00:00:00 +1000</pubDate>
-      
       <guid>/talk/201305-planck/</guid>
       <description></description>
     </item>
@@ -35,7 +36,6 @@ A well-motivated possibility is to identify the new resonance with the lightest 
       <title>The Scale-Invariant NMSSM and the 126 GeV Higgs Boson</title>
       <link>/talk/201305-pheno/</link>
       <pubDate>Tue, 07 May 2013 00:00:00 +1000</pubDate>
-      
       <guid>/talk/201305-pheno/</guid>
       <description></description>
     </item>
@@ -44,7 +44,6 @@ A well-motivated possibility is to identify the new resonance with the lightest 
       <title>The Scale-Invariant NMSSM and the 126 GeV Higgs Boson</title>
       <link>/publication/1212.5243/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +1100</pubDate>
-      
       <guid>/publication/1212.5243/</guid>
       <description></description>
     </item>
@@ -53,7 +52,6 @@ A well-motivated possibility is to identify the new resonance with the lightest 
       <title>Implications of a SM like Higgs for a natural NMSSM with low cutoff</title>
       <link>/talk/201207-ichep/</link>
       <pubDate>Fri, 06 Jul 2012 00:00:00 +1000</pubDate>
-      
       <guid>/talk/201207-ichep/</guid>
       <description></description>
     </item>
@@ -62,7 +60,6 @@ A well-motivated possibility is to identify the new resonance with the lightest 
       <title>Implications of a SM like Higgs for a natural NMSSM with low cutoff</title>
       <link>/talk/201205-planck/</link>
       <pubDate>Wed, 30 May 2012 00:00:00 +1000</pubDate>
-      
       <guid>/talk/201205-planck/</guid>
       <description></description>
     </item>

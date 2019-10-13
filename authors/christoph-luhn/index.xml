@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Christoph Luhn | Dr Michael A Schmidt</title>
+    <link>/authors/christoph-luhn/</link>
+      <atom:link href="/authors/christoph-luhn/index.xml" rel="self" type="application/rss+xml" />
+    <description>Christoph Luhn</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +1100</lastBuildDate>
+    <image>
+      <url>/img/portrait.jpg</url>
+      <title>Christoph Luhn</title>
+      <link>/authors/christoph-luhn/</link>
+    </image>
+    
+    <item>
+      <title>Testing atmospheric mixing sum rules at precision neutrino facilities</title>
+      <link>/publication/1308.4314/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +1100</pubDate>
+      <guid>/publication/1308.4314/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

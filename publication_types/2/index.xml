@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>2 on Dr Michael A Schmidt</title>
+    <title>2 | Dr Michael A Schmidt</title>
     <link>/publication_types/2/</link>
-    <description>Recent content in 2 on Dr Michael A Schmidt</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +1100</lastBuildDate>
-    
-	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +1100</lastBuildDate>
+    <image>
+      <url>/img/portrait.jpg</url>
+      <title>2</title>
+      <link>/publication_types/2/</link>
+    </image>
     
     <item>
       <title>Dark matter direct detection of a fermionic singlet at one loop</title>
       <link>/publication/1803.05660/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +1100</pubDate>
-      
       <guid>/publication/1803.05660/</guid>
       <description></description>
     </item>
@@ -25,7 +24,6 @@
       <title>From the trees to the forest: a review of radiative neutrino mass models</title>
       <link>/publication/1706.08524/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +1100</pubDate>
-      
       <guid>/publication/1706.08524/</guid>
       <description></description>
     </item>
@@ -34,7 +32,6 @@
       <title>Reconsidering the One Leptoquark solution: flavor anomalies and neutrino mass</title>
       <link>/publication/1704.05849/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +1100</pubDate>
-      
       <guid>/publication/1704.05849/</guid>
       <description></description>
     </item>
@@ -43,7 +40,6 @@
       <title>Unitarisation of EFT Amplitudes for Dark Matter Searches at the LHC</title>
       <link>/publication/1606.02722/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +1100</pubDate>
-      
       <guid>/publication/1606.02722/</guid>
       <description></description>
     </item>
@@ -52,7 +48,6 @@
       <title>Testing atmospheric mixing sum rules at precision neutrino facilities</title>
       <link>/publication/1308.4314/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +1100</pubDate>
-      
       <guid>/publication/1308.4314/</guid>
       <description></description>
     </item>
@@ -61,7 +56,6 @@
       <title>CP and Discrete Flavour Symmetries</title>
       <link>/publication/1211.6953/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +1100</pubDate>
-      
       <guid>/publication/1211.6953/</guid>
       <description></description>
     </item>
@@ -70,7 +64,6 @@
       <title>The Scale-Invariant NMSSM and the 126 GeV Higgs Boson</title>
       <link>/publication/1212.5243/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +1100</pubDate>
-      
       <guid>/publication/1212.5243/</guid>
       <description></description>
     </item>
@@ -79,7 +72,6 @@
       <title>Radiative Symmetry Breaking of the Minimal Left-Right Symmetric Model</title>
       <link>/publication/0911.0710/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +1100</pubDate>
-      
       <guid>/publication/0911.0710/</guid>
       <description></description>
     </item>
@@ -88,7 +80,6 @@
       <title>Renormalization group evolution in the type I &#43; II seesaw model</title>
       <link>/publication/0705.3841/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +1100</pubDate>
-      
       <guid>/publication/0705.3841/</guid>
       <description></description>
     </item>
@@ -97,7 +88,6 @@
       <title>Running neutrino mass parameters in see-saw scenarios</title>
       <link>/publication/0501272/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +1100</pubDate>
-      
       <guid>/publication/0501272/</guid>
       <description></description>
     </item>

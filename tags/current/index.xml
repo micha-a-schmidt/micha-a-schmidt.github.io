@@ -1,33 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>current on Dr Michael A Schmidt</title>
+    <title>current | Dr Michael A Schmidt</title>
     <link>/tags/current/</link>
-    <description>Recent content in current on Dr Michael A Schmidt</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sat, 26 Jan 2019 00:00:00 +1100</lastBuildDate>
-    
-	<atom:link href="/tags/current/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/tags/current/index.xml" rel="self" type="application/rss+xml" />
+    <description>current</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sat, 26 Jan 2019 00:00:00 +1100</lastBuildDate>
+    <image>
+      <url>/img/portrait.jpg</url>
+      <title>current</title>
+      <link>/tags/current/</link>
+    </image>
     
     <item>
       <title>Adam Lackner</title>
       <link>/people/adam-lackner/</link>
       <pubDate>Sat, 26 Jan 2019 00:00:00 +1100</pubDate>
-      
       <guid>/people/adam-lackner/</guid>
-      <description>Honours student&lt;br/&gt;Neutrino models at a future lepton collider</description>
+      <description></description>
     </item>
     
     <item>
       <title>Tobias Felkl</title>
       <link>/people/tobias-felkl/</link>
       <pubDate>Sat, 26 Jan 2019 00:00:00 +1100</pubDate>
-      
       <guid>/people/tobias-felkl/</guid>
-      <description>PhD student&lt;br/&gt;Neutrino/Dark Matter</description>
+      <description></description>
     </item>
     
   </channel>

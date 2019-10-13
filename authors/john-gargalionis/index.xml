@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>John Gargalionis | Dr Michael A Schmidt</title>
+    <link>/authors/john-gargalionis/</link>
+      <atom:link href="/authors/john-gargalionis/index.xml" rel="self" type="application/rss+xml" />
+    <description>John Gargalionis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +1100</lastBuildDate>
+    <image>
+      <url>/img/portrait.jpg</url>
+      <title>John Gargalionis</title>
+      <link>/authors/john-gargalionis/</link>
+    </image>
+    
+    <item>
+      <title>Reconsidering the One Leptoquark solution: flavor anomalies and neutrino mass</title>
+      <link>/publication/1704.05849/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +1100</pubDate>
+      <guid>/publication/1704.05849/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

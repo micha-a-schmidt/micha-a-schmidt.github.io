@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Manfred Lindner | Dr Michael A Schmidt</title>
+    <link>/authors/manfred-lindner/</link>
+      <atom:link href="/authors/manfred-lindner/index.xml" rel="self" type="application/rss+xml" />
+    <description>Manfred Lindner</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +1100</lastBuildDate>
+    <image>
+      <url>/img/portrait.jpg</url>
+      <title>Manfred Lindner</title>
+      <link>/authors/manfred-lindner/</link>
+    </image>
+    
+    <item>
+      <title>CP and Discrete Flavour Symmetries</title>
+      <link>/publication/1211.6953/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +1100</pubDate>
+      <guid>/publication/1211.6953/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radiative Symmetry Breaking of the Minimal Left-Right Symmetric Model</title>
+      <link>/publication/0911.0710/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +1100</pubDate>
+      <guid>/publication/0911.0710/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Running neutrino mass parameters in see-saw scenarios</title>
+      <link>/publication/0501272/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +1100</pubDate>
+      <guid>/publication/0501272/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

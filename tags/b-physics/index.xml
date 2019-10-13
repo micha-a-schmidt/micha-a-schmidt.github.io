@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>B physics on Dr Michael A Schmidt</title>
+    <title>B physics | Dr Michael A Schmidt</title>
     <link>/tags/b-physics/</link>
-    <description>Recent content in B physics on Dr Michael A Schmidt</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 24 Jul 2017 00:00:00 +1000</lastBuildDate>
-    
-	<atom:link href="/tags/b-physics/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/tags/b-physics/index.xml" rel="self" type="application/rss+xml" />
+    <description>B physics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 24 Jul 2017 00:00:00 +1000</lastBuildDate>
+    <image>
+      <url>/img/portrait.jpg</url>
+      <title>B physics</title>
+      <link>/tags/b-physics/</link>
+    </image>
     
     <item>
       <title>Reconsidering the one leptoquark solution: Flavor anomalies and neutrino mass</title>
       <link>/talk/201707-zhengzhou/</link>
       <pubDate>Mon, 24 Jul 2017 00:00:00 +1000</pubDate>
-      
       <guid>/talk/201707-zhengzhou/</guid>
       <description></description>
     </item>

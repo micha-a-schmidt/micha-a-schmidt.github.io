@@ -1,33 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>PhD on Dr Michael A Schmidt</title>
+    <title>PhD | Dr Michael A Schmidt</title>
     <link>/tags/phd/</link>
-    <description>Recent content in PhD on Dr Michael A Schmidt</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sat, 26 Jan 2019 00:00:00 +1100</lastBuildDate>
-    
-	<atom:link href="/tags/phd/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/tags/phd/index.xml" rel="self" type="application/rss+xml" />
+    <description>PhD</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sat, 26 Jan 2019 00:00:00 +1100</lastBuildDate>
+    <image>
+      <url>/img/portrait.jpg</url>
+      <title>PhD</title>
+      <link>/tags/phd/</link>
+    </image>
     
     <item>
       <title>Dr Bahman Ghadirian</title>
       <link>/people/bahman-ghadirian/</link>
       <pubDate>Sat, 26 Jan 2019 00:00:00 +1100</pubDate>
-      
       <guid>/people/bahman-ghadirian/</guid>
-      <description>PhD student&lt;br/&gt;neutrino mass models</description>
+      <description>&lt;p&gt;Now in private sector&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Tobias Felkl</title>
       <link>/people/tobias-felkl/</link>
       <pubDate>Sat, 26 Jan 2019 00:00:00 +1100</pubDate>
-      
       <guid>/people/tobias-felkl/</guid>
-      <description>PhD student&lt;br/&gt;Neutrino/Dark Matter</description>
+      <description></description>
     </item>
     
   </channel>

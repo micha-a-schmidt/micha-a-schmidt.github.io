@@ -1,59 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Dr Michael A Schmidt</title>
+    <title>Tags | Dr Michael A Schmidt</title>
     <link>/tags/</link>
-    <description>Recent content in Tags on Dr Michael A Schmidt</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sat, 26 Jan 2019 00:00:00 +1100</lastBuildDate>
-    
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Honours</title>
-      <link>/tags/honours/</link>
-      <pubDate>Sat, 26 Jan 2019 00:00:00 +1100</pubDate>
-      
-      <guid>/tags/honours/</guid>
-      <description></description>
-    </item>
+      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sat, 12 Oct 2019 00:00:00 +1100</lastBuildDate>
+    <image>
+      <url>/img/portrait.jpg</url>
+      <title>Tags</title>
+      <link>/tags/</link>
+    </image>
     
     <item>
-      <title>PhD</title>
-      <link>/tags/phd/</link>
-      <pubDate>Sat, 26 Jan 2019 00:00:00 +1100</pubDate>
-      
-      <guid>/tags/phd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>alumni</title>
-      <link>/tags/alumni/</link>
-      <pubDate>Sat, 26 Jan 2019 00:00:00 +1100</pubDate>
-      
-      <guid>/tags/alumni/</guid>
+      <title>neutrinos</title>
+      <link>/tags/neutrinos/</link>
+      <pubDate>Sat, 12 Oct 2019 00:00:00 +1100</pubDate>
+      <guid>/tags/neutrinos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>clfv</title>
       <link>/tags/clfv/</link>
-      <pubDate>Sat, 26 Jan 2019 00:00:00 +1100</pubDate>
-      
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +1000</pubDate>
       <guid>/tags/clfv/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>current</title>
-      <link>/tags/current/</link>
-      <pubDate>Sat, 26 Jan 2019 00:00:00 +1100</pubDate>
-      
-      <guid>/tags/current/</guid>
       <description></description>
     </item>
     
@@ -61,7 +32,6 @@
       <title>dark matter</title>
       <link>/tags/dark-matter/</link>
       <pubDate>Sat, 26 Jan 2019 00:00:00 +1100</pubDate>
-      
       <guid>/tags/dark-matter/</guid>
       <description></description>
     </item>
@@ -70,17 +40,7 @@
       <title>ewsb</title>
       <link>/tags/ewsb/</link>
       <pubDate>Sat, 26 Jan 2019 00:00:00 +1100</pubDate>
-      
       <guid>/tags/ewsb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>neutrinos</title>
-      <link>/tags/neutrinos/</link>
-      <pubDate>Sat, 26 Jan 2019 00:00:00 +1100</pubDate>
-      
-      <guid>/tags/neutrinos/</guid>
       <description></description>
     </item>
     
@@ -88,7 +48,6 @@
       <title>susy</title>
       <link>/tags/susy/</link>
       <pubDate>Sat, 26 Jan 2019 00:00:00 +1100</pubDate>
-      
       <guid>/tags/susy/</guid>
       <description></description>
     </item>
@@ -97,7 +56,6 @@
       <title>CP</title>
       <link>/tags/cp/</link>
       <pubDate>Thu, 21 Dec 2017 00:00:00 +1100</pubDate>
-      
       <guid>/tags/cp/</guid>
       <description></description>
     </item>
@@ -106,7 +64,6 @@
       <title>flavour symmetry</title>
       <link>/tags/flavour-symmetry/</link>
       <pubDate>Thu, 21 Dec 2017 00:00:00 +1100</pubDate>
-      
       <guid>/tags/flavour-symmetry/</guid>
       <description></description>
     </item>
@@ -115,7 +72,6 @@
       <title>B physics</title>
       <link>/tags/b-physics/</link>
       <pubDate>Mon, 24 Jul 2017 00:00:00 +1000</pubDate>
-      
       <guid>/tags/b-physics/</guid>
       <description></description>
     </item>
